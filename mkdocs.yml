@@ -1,2 +1,16 @@
-site_name: My Docs
-theme: material
+site_name: Tritan
+theme:
+  name: material
+  custom_dir: 'theme'
+  palette:
+    primary: blue
+    accent: blue
+    icon: 'book'
+repo_name: 'tapanther/Tritan'
+repo_url: 'https://github.com/tapanther/Tritan'
+
+nav:
+  - Home: 'index.md'
+  - Major Powers:
+    - Republic of Siddarmark :
+      - 'The Republic' : 'MajorPowers/Republic.md'
