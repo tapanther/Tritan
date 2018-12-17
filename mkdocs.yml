@@ -13,3 +13,5 @@ nav:
   - Home: 'index.md'
   - MajorPowers:
       - Republic of Siddarmark : 'MajorPowers/Republic.md'
+  - Settlements:
+      - Siddar City : 'Settlements/SiddarCity.md'
