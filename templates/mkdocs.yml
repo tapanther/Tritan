@@ -11,5 +11,11 @@ repo_url: 'https://github.com/tapanther/Tritan'
 
 nav:
   - Home: 'index.md'
-  - MajorPowers:
-      - Republic of Siddarmark : 'MajorPowers/Republic.md'
+{% for category, data in navStruct.items() %}
+  - {{ category }}:
+{% for item in data %}
+{% for name, file in item.items() %}
+      - {{ name }} : '{{ file }}'
+{% endfor %}
+{% endfor %}
+{% endfor %}
