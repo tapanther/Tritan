@@ -12,6 +12,6 @@ repo_url: 'https://github.com/tapanther/Tritan'
 nav:
   - Home: 'index.md'
   - MajorPowers:
-      - Republic of Siddarmark : 'MajorPowers/Republic.md'
+      - Republic of Siddarmark : 'Republic.md'
   - Settlements:
-      - Siddar City : 'Settlements/SiddarCity.md'
+      - Siddar City : 'SiddarCity.md'
