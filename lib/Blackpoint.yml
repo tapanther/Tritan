@@ -1,0 +1,86 @@
+---
+class : MajorPowers
+template : Nation.md
+title : Kingdom of Dohlar
+GeneralInfo :
+  Population : 805000
+  Government : Feudal Monarchy
+  Ethics :
+    - Imperial
+    - Aristocratic
+Society :
+  Government : >-
+      TEXT
+  Locations:
+    '[Blackpoint][Blackpoint (City)]' : >-
+      The last surviving First Age city, Blackpoint is the capital of the
+      Kingdom of Dohlar. Laid out as a series of interlocking walled enclaves,
+      Blackpoint is rigidly compartmentalized and the single most fortified
+      location on Tritan.
+  Organizations:
+    NAME : >-
+      TEXT
+Culture :
+  Description : >-
+    TEXT
+  CoreBeliefs :
+    - Divine Favor
+    - Paranoid Xenophobia
+    - Fundamentalist
+    - Fortress-Nation
+    - Feudal Society
+    - Aristocratic Elite
+  Prejudices :
+    - Ignoble Birth
+    - Monstrous Heritage
+  Minorities :
+    - Motherchurch
+    - Freemen
+  Values :
+    - >-
+      Blackpoint has a divine mandate to restore civilization
+      throughout Tritan.
+    - >-
+      The King rules by the blessing of the Gods.
+    - >-
+      Blackpoint is under constant threat from the wretched, misled
+      masses outside the walls.
+  Heroes :
+    NAME : >-
+      TEXT
+  Villains :
+    NAME : >-
+      TEXT
+  Traditions :
+    Coronation of the Monarch : >-
+      Upon the death of the Dohlaran Monarch, the 
+  Religion : >-
+    TEXT
+History :
+  PivotalEvents :
+    -
+      Name : The Fall of Baltatrax
+      Date : 0 AGS
+      Description : >-
+        The surviving Dohlaran Army traps and defeats Baltatrax the Ravager and
+        his army of fiendish abominations, putting an end to the Great Sack. Although
+        Blackpoint emerged victorious, the battle took a heavy toll on the city,
+        destroying not only the outer enclaves, but most importantly, breaking the line
+        of Dohlaran succession when the heirless Haarahld I succumbed to his wounds.
+    -
+      Name : The Divine Restoration
+      Date : 57 AGS
+      Description : >-
+        Tasar Thexysis, a minor noble in Blackpoint, makes a claim on the vacant
+        Dohlaran throne, presenting a letter from his mother alleging that he is
+        the result of a secret love affair with Haarahld I. The Regency Council
+        backs Tasar's claim, who is then crowned Maximillien III.
+    -
+      Name : Shay's Rebellion
+      Date : 161 AGS
+      Description : >-
+        Shay Cowen leads a popular uprising of peasants and serfs against the Dohlaran
+        feudal system. The rebellion is brutally put down by the Dusk Templars at the
+        direction of the Crown. The nascent [Republic][Republic of Siddarmark] is
+        suspected of inciting the rebellion by the nobility in Blackpoint, leading to
+        a rapid deterioration of relations between the two cities.
