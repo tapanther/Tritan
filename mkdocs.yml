@@ -14,14 +14,15 @@ repo_url: 'https://github.com/tapanther/Tritan'
 nav:
   - Home: 'index.md'
   - General:
+      - Book of Prophesy : 'Prophesy.md'
       - Timeline : 'timeline.md'
   - MajorPowers:
-      - Republic of Siddarmark : 'Republic.md'
       - Kingdom of Dohlar : 'Blackpoint.md'
+      - Republic of Siddarmark : 'Republic.md'
   - NPC:
       - Lyhl Habborhlyn : 'Lyhl_Habborlyn.md'
   - Organization:
       - Gahrdynyr Trade House : 'GahrdynyrTradeHouse.md'
   - Settlements:
-      - Siddar City : 'SiddarCity.md'
       - Blackpoint (City) : 'BlackpointCity.md'
+      - Siddar City : 'SiddarCity.md'
