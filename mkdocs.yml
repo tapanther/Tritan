@@ -21,13 +21,13 @@ nav:
       - Book of Prophesy : 'Prophesy.md'
       - Timeline : 'timeline.md'
   - MajorPowers:
-      - Republic of Siddarmark : 'Republic.md'
       - Kingdom of Dohlar : 'Blackpoint.md'
+      - Republic of Siddarmark : 'Republic.md'
   - NPC:
       - Greghor Stonhyr : 'GreghorStonhyr.md'
       - Lyhl Habborhlyn : 'Lyhl_Habborlyn.md'
   - Organization:
       - Gahrdynyr Trade House : 'GahrdynyrTradeHouse.md'
   - Settlements:
-      - Siddar City : 'SiddarCity.md'
       - Blackpoint (City) : 'BlackpointCity.md'
+      - Siddar City : 'SiddarCity.md'
