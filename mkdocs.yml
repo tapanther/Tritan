@@ -19,6 +19,7 @@ nav:
   - Home: 'index.md'
   - General:
       - Book of Prophesy : 'Prophesy.md'
+      - Stonhyr's Speech at Noxwall : 'StonhyrNoxwallSpeech.md'
       - Timeline : 'timeline.md'
   - MajorPowers:
       - Kingdom of Dohlar : 'Blackpoint.md'
