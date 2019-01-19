@@ -11,12 +11,12 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://tapanther.github.io/Tritan/Prophesy/Calendar/</loc>
+     <loc>https://tapanther.github.io/Tritan/Prophesy/Prophesy/</loc>
      <lastmod>2019-01-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://tapanther.github.io/Tritan/Prophesy/Prophesy/</loc>
+     <loc>https://tapanther.github.io/Tritan/Prophesy/Calendar/</loc>
      <lastmod>2019-01-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -26,17 +26,27 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://tapanther.github.io/Tritan/Prophesy/AlchemistJournal/</loc>
+     <lastmod>2019-01-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://tapanther.github.io/Tritan/Prophesy/Gnolls/</loc>
+     <lastmod>2019-01-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://tapanther.github.io/Tritan/Prophesy/Timeline/</loc>
      <lastmod>2019-01-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://tapanther.github.io/Tritan/Prophesy/Blackpoint/</loc>
+     <loc>https://tapanther.github.io/Tritan/Prophesy/Republic/</loc>
      <lastmod>2019-01-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://tapanther.github.io/Tritan/Prophesy/Republic/</loc>
+     <loc>https://tapanther.github.io/Tritan/Prophesy/Blackpoint/</loc>
      <lastmod>2019-01-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -56,12 +66,12 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://tapanther.github.io/Tritan/Prophesy/BlackpointCity/</loc>
+     <loc>https://tapanther.github.io/Tritan/Prophesy/SiddarCity/</loc>
      <lastmod>2019-01-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://tapanther.github.io/Tritan/Prophesy/SiddarCity/</loc>
+     <loc>https://tapanther.github.io/Tritan/Prophesy/BlackpointCity/</loc>
      <lastmod>2019-01-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
