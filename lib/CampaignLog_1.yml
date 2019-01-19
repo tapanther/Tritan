@@ -1,0 +1,40 @@
+---
+class : Campaign
+template : generic.md
+title : 'Act 1 - The Ravenous Horde'
+Content:
+  -
+    separate: True
+    Subtitle: 570Y 3M 15KAL
+    Text: >-
+      The Party exits the Tomb of the Alchemist several days
+      later than expected. Time within the Tomb seems to pass
+      slower than real-time on the material plane.
+  -
+    separate: True
+    Subtitle: 570Y 3M 11KAL
+    Text: >-
+      The Party meets up with the refugee caravan, led by
+      [Greghor Stonhyr][], and proceeds to Noxwall.
+  -
+    separate: True
+    Subtitle: 570Y 3M 10KAL
+    Text: >-
+      Stonhyr delivers an [address to the people of Noxwall][Stonhyr's Speech at Noxwall],
+      formally welcoming them into the Republic but warning
+      of trying times to come.
+  -
+    separate: True
+    Subtitle: 570Y 3M 9KAL
+    Text: >-
+      The Party leads a salvage caravan to the ruins of Cantfall
+      so that precious documents and farming materials can be
+      recovered.
+  -
+    separate: True
+    Subtitle: 570Y 3M 4KAL
+    Text: >-
+      The Party encounters gnoll hunting parties in Cantfall, indicating
+      that a warband must be nearby. Taking refuge in the miniature
+      Nonewallow of the Zhackson estate, the Party scares off a gnoll
+      pack by exploiting their fear of the supernatural ash.
