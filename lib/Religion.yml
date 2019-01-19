@@ -1,0 +1,36 @@
+---
+class : History
+template : generic.md
+title : Religion in Tritan
+Description: >-
+  It is believed that the Gods and the Weave are but two sides of the same coin.
+  Ancient tomes contain entire treatises on the subject, and what few records
+  remain from the Great Sack indicate that the arcane and divine powers failed
+  simultaneously. The established dogma holds that the Old Gods died with the
+  collapse of the Weave, and a new Pantheon was born with its restoration.
+  
+  
+  Unlike the Old Gods, which numbered in the dozens, only five deities have made
+  their presence known to mortals since the end of the spellplague. These new
+  deities are colloquially known as The Five. Interestingly, formerly
+  uncontacted towns and villages have developed local versions of The Five,
+  though there are cases where wildly different Pantheons have arisen, such as
+  the monotheistic Church of God Awaiting.
+Content:
+  -
+    separate: True
+    Subtitle: Polytheistic
+    Title: Cult of Five
+    Text: >-
+      The [Cult of Five][] is the primary religion of Eastern Tritan. The Cult
+      believes that the Gods of Old died with the Spellplague, and their
+      essence was reborn as five new gods.
+  -
+    separate: True
+    Subtitle: Monotheistic
+    Title: Church of God Awaiting
+    Text: >-
+      The Church of God Awaiting, colloquially known as Mother Church, is the
+      primary religion of Western Tritan. While Mother Church recognizes the
+      divinity of the Five, it believes that the Eastern Gods are merely
+      messengers of an omnipotent and omniscient being.

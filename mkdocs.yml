@@ -29,6 +29,8 @@ nav:
       - 'Alchemist&#39;s Journal' : 'AlchemistJournal.md'
       - 'Gnolls' : 'Gnolls.md'
       - 'Timeline' : 'Timeline.md'
+  - History:
+      - 'Religion in Tritan' : 'Religion.md'
   - MajorPowers:
       - 'Republic of Siddarmark' : 'Republic.md'
       - 'Kingdom of Dohlar' : 'Blackpoint.md'
@@ -36,6 +38,7 @@ nav:
       - 'Greghor Stonhyr' : 'GreghorStonhyr.md'
       - 'Lyhl Habborhlyn' : 'Lyhl_Habborlyn.md'
   - Organization:
+      - 'Cult of Five' : 'CultOfFive.md'
       - 'Gahrdynyr Trade House' : 'GahrdynyrTradeHouse.md'
   - Settlements:
       - 'Siddar City' : 'SiddarCity.md'
