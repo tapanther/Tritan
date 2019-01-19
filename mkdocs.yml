@@ -15,11 +15,15 @@ site_url: 'https://tapanther.github.io/Tritan/Prophesy/'
 extra:
   disqus: 'tritan'
 
+markdown_extensions:
+  - admonition
+
 nav:
   - Home: 'index.md'
   - Campaign:
       - 'Act 1 - The Ravenous Horde' : 'CampaignLog_1.md'
   - General:
+      - 'Tritanian Calendar' : 'Calendar.md'
       - 'Book of Prophesy' : 'Prophesy.md'
       - 'Stonhyr&#39;s Speech at Noxwall' : 'StonhyrNoxwallSpeech.md'
       - 'Timeline' : 'Timeline.md'
