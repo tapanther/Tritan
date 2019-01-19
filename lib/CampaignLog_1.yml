@@ -1,6 +1,6 @@
 ---
 class : Campaign
-template : generic.md
+template : Generic.md
 title : 'Act 1 - The Ravenous Horde'
 Content:
   -
