@@ -23,18 +23,20 @@ nav:
   - Campaign:
       - 'Act 1 - The Ravenous Horde' : 'CampaignLog_1.md'
   - General:
-      - 'Tritanian Calendar' : 'Calendar.md'
       - 'Book of Prophesy' : 'Prophesy.md'
+      - 'Tritanian Calendar' : 'Calendar.md'
       - 'Stonhyr&#39;s Speech at Noxwall' : 'StonhyrNoxwallSpeech.md'
+      - 'Alchemist&#39;s Journal' : 'AlchemistJournal.md'
+      - 'Gnolls' : 'Gnolls.md'
       - 'Timeline' : 'Timeline.md'
   - MajorPowers:
-      - 'Kingdom of Dohlar' : 'Blackpoint.md'
       - 'Republic of Siddarmark' : 'Republic.md'
+      - 'Kingdom of Dohlar' : 'Blackpoint.md'
   - NPC:
       - 'Greghor Stonhyr' : 'GreghorStonhyr.md'
       - 'Lyhl Habborhlyn' : 'Lyhl_Habborlyn.md'
   - Organization:
       - 'Gahrdynyr Trade House' : 'GahrdynyrTradeHouse.md'
   - Settlements:
-      - 'Blackpoint (City)' : 'BlackpointCity.md'
       - 'Siddar City' : 'SiddarCity.md'
+      - 'Blackpoint (City)' : 'BlackpointCity.md'
