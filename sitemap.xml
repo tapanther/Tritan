@@ -6,22 +6,12 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://tapanther.github.io/Tritan/Prophesy/CampaignLog_0/</loc>
+     <lastmod>2019-01-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://tapanther.github.io/Tritan/Prophesy/CampaignLog_1/</loc>
-     <lastmod>2019-01-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://tapanther.github.io/Tritan/Prophesy/Prophesy/</loc>
-     <lastmod>2019-01-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://tapanther.github.io/Tritan/Prophesy/Calendar/</loc>
-     <lastmod>2019-01-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://tapanther.github.io/Tritan/Prophesy/StonhyrNoxwallSpeech/</loc>
      <lastmod>2019-01-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -31,7 +21,17 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://tapanther.github.io/Tritan/Prophesy/Prophesy/</loc>
+     <lastmod>2019-01-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://tapanther.github.io/Tritan/Prophesy/Gnolls/</loc>
+     <lastmod>2019-01-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://tapanther.github.io/Tritan/Prophesy/StonhyrNoxwallSpeech/</loc>
      <lastmod>2019-01-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -41,17 +41,22 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://tapanther.github.io/Tritan/Prophesy/Calendar/</loc>
+     <lastmod>2019-01-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://tapanther.github.io/Tritan/Prophesy/Religion/</loc>
      <lastmod>2019-01-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://tapanther.github.io/Tritan/Prophesy/Republic/</loc>
+     <loc>https://tapanther.github.io/Tritan/Prophesy/Blackpoint/</loc>
      <lastmod>2019-01-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://tapanther.github.io/Tritan/Prophesy/Blackpoint/</loc>
+     <loc>https://tapanther.github.io/Tritan/Prophesy/Republic/</loc>
      <lastmod>2019-01-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -76,12 +81,12 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://tapanther.github.io/Tritan/Prophesy/SiddarCity/</loc>
+     <loc>https://tapanther.github.io/Tritan/Prophesy/BlackpointCity/</loc>
      <lastmod>2019-01-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://tapanther.github.io/Tritan/Prophesy/BlackpointCity/</loc>
+     <loc>https://tapanther.github.io/Tritan/Prophesy/SiddarCity/</loc>
      <lastmod>2019-01-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
