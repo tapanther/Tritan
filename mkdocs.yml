@@ -21,19 +21,20 @@ markdown_extensions:
 nav:
   - Home: 'index.md'
   - Campaign:
+      - 'Act 0 - The Alchemist&#39;s Tomb' : 'CampaignLog_0.md'
       - 'Act 1 - The Ravenous Horde' : 'CampaignLog_1.md'
   - General:
-      - 'Book of Prophesy' : 'Prophesy.md'
-      - 'Tritanian Calendar' : 'Calendar.md'
-      - 'Stonhyr&#39;s Speech at Noxwall' : 'StonhyrNoxwallSpeech.md'
       - 'Alchemist&#39;s Journal' : 'AlchemistJournal.md'
+      - 'Book of Prophesy' : 'Prophesy.md'
       - 'Gnolls' : 'Gnolls.md'
+      - 'Stonhyr&#39;s Speech at Noxwall' : 'StonhyrNoxwallSpeech.md'
       - 'Timeline' : 'Timeline.md'
+      - 'Tritanian Calendar' : 'Calendar.md'
   - History:
       - 'Religion in Tritan' : 'Religion.md'
   - MajorPowers:
-      - 'Republic of Siddarmark' : 'Republic.md'
       - 'Kingdom of Dohlar' : 'Blackpoint.md'
+      - 'Republic of Siddarmark' : 'Republic.md'
   - NPC:
       - 'Greghor Stonhyr' : 'GreghorStonhyr.md'
       - 'Lyhl Habborhlyn' : 'Lyhl_Habborlyn.md'
@@ -41,5 +42,5 @@ nav:
       - 'Cult of Five' : 'CultOfFive.md'
       - 'Gahrdynyr Trade House' : 'GahrdynyrTradeHouse.md'
   - Settlements:
-      - 'Siddar City' : 'SiddarCity.md'
       - 'Blackpoint (City)' : 'BlackpointCity.md'
+      - 'Siddar City' : 'SiddarCity.md'
