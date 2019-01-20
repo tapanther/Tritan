@@ -1,0 +1,56 @@
+---
+class : Organization
+template : Organization.md
+title : Mother Church (Religion)
+GeneralInfo :
+  Type : Major Religion
+  Allegiance : Self
+  Description : >-
+    The Church of God Awaiting, or Mother Church as it is lovingly called by
+    its adherents, is the theocratic major power of Western Tritan. The Church
+    believes that there is only one true god, omniscient and omnipotent, who
+    has chosen not to reveal itself directly, but rather through his messengers
+    Pyrael, Elumin, Luthelye, Suram, and Aniris.
+Structure :
+  Governance : >-
+    There is very little distinction between the spiritual and temporal governance
+    of Mother Church. Bishops serve as both the heads of their congregations as well
+    as the aldermen of their towns and villages, known as bishoprics. With regards to
+    spiritual matters, the Bishop only rarely leads mass or directly counsels the laity,
+    as those tasks are generally reserved for lower ranking priests and chaplains. Instead,
+    the Bishop will set a general course for congregation, and instructs the
+    subordinate clergy on matters of divinity.
+    
+
+
+    Bishops are appointed directly by the Church Canons, the ruling council of the
+    Church. Once appointed, a Bishop serves for life, unless removed by the Canons
+    or themselves promoted to Canon.
+
+
+    Unlike the [Cult of Five][], the Church Leadership is highly centralized. The
+    Vicar General leads the Church in spiritual and temporal matters, though all decisions
+    are subject to review from the Canonical Council. The Vicar General is elected from
+    among the Canons every 50 years, effectively making it a lifetime appointment.
+##  Locations :
+##    NAME : >-
+##      TEXT
+##  Members :
+##    NAME : >-
+##      TEXT
+##Culture :
+##  Description : >-
+##    TEXT
+##  Values :
+##    - >-
+##      TEXT
+##  Traditions :
+##    NAME : >-
+##      TEXT
+##History :
+##  Timeline :
+##    -
+##      Name : NAME
+##      Date : DATE
+##      Description : >-
+##        TEXT
