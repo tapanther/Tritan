@@ -32,7 +32,9 @@ nav:
       - 'Tritanian Calendar' : 'Calendar.md'
   - History:
       - 'Religion in Tritan' : 'Religion.md'
-  - MajorPowers:
+  - Locations:
+      - 'Nonewallow' : 'Nonewallow.md'
+  - Major Powers:
       - 'Kingdom of Dohlar' : 'Blackpoint.md'
       - 'Republic of Siddarmark' : 'Republic.md'
   - NPC:

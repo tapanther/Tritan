@@ -43,15 +43,24 @@ Society :
       Kilmainham Gaol has been used as a state prison by the Dohlaran Crown since
       before the Great Sack. The fortress currently holds a wide range of prisoners,
       from petty thieves to nobles who have offended the Crown in some manner.
-  Organizations:
-    Dusk Templars : >-
-      Widely considered some of the fiercest warriors on Tritan, the Dusk Templars
-      are the sole surviving heraldic order from the First Age. The Templars answer
-      directly to the Dohlaran Crown, and are often used as elite mounted shock
-      troops against both internal and external threats.
 Culture :
   Description : >-
-    TEXT
+    The people of Blackpoint are strongly religious, honest, and hardworking,
+    but suffer from a deep seated paranoia with regards to outsiders. With decades
+    of social and religious indoctrination spreading a message of fear, the common
+    folk view anyone not from Blackpoint as barbarous, deceitful, and malevolent.
+    As far as the people are concerned, those from outside the walls would like
+    nothing more than to drag the people of Blackpoint into the chaos and devastation
+    that still festers in the world beyond.
+
+
+    As for the nobility, there is first and foremost an overwhelming sense of
+    superiority over both the common folk and outsiders.
+    It is only natural that the Gods would choose Blackpoint to survive the
+    Great Sack where all other cities fell, for Blackpoint embodies the natural
+    order of the world. Only the strong survive, and only the noble shall rule.
+    There is no doubt that the Five have chosen Blackpoint as the ember from which
+    civilization shall once again light the world. 
   CoreBeliefs :
     - Feudal Society
     - Aristocratic Elite
@@ -63,11 +72,11 @@ Culture :
     - Republican Agitators
   Minorities :
     - Mother Church
-  Traditions :
-    NAME : >-
-      TEXT
-  Religion : >-
-    TEXT
+##  Traditions :
+##    NAME : >-
+##      TEXT
+##  Religion : >-
+##    TEXT
 History :
   Timeline :
     -
