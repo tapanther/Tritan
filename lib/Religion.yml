@@ -1,6 +1,6 @@
 ---
 class : History
-template : generic.md
+template : Generic.md
 title : Religion in Tritan
 Description: >-
   It is believed that the Gods and the Weave are but two sides of the same coin.
@@ -22,7 +22,7 @@ Content:
     Subtitle: Polytheistic
     Title: Cult of Five
     Text: >-
-      The [Cult of Five][] is the primary religion of Eastern Tritan. The Cult
+      The Cult of Five is the primary religion of Eastern Tritan. The Cult
       believes that the Gods of Old died with the Spellplague, and their
       essence was reborn as five new gods.
   -

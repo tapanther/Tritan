@@ -1,6 +1,6 @@
 ---
 class : General
-template : generic.md
+template : Generic.md
 title : Gnolls
 Description: >-
   All images and information linked from [DnDBeyond](https://www.dndbeyond.com/)
@@ -40,8 +40,8 @@ Content:
       In the ruins of the First Age, gnoll packs and orc tribes frequently
       fight for control over hunting grounds. In the fringes of the Second
       Age, even the smallest sign of gnoll activity is met with overwhelming
-      force from the [Republic][Republic of Siddarmark] and
-      the [Kingdom of Dohlar][].
+      force from the Republic and
+      the Kingdom of Dohlar.
   -
     Title: Gnoll Social Structure
     Text: >-

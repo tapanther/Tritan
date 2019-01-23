@@ -2,6 +2,7 @@
 class : Settlements
 template : Nation.md
 title : Blackpoint (City)
+altLink: Blackpoint
 GeneralInfo :
   Population : 30000
   Government : Feudal Monarchy
