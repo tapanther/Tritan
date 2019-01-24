@@ -1,0 +1,33 @@
+---
+class : NPC
+template : Character.md
+title : Faelix
+GeneralInfo :
+  Race : Human (?)
+  Age : Unknown
+  Traits :
+    - Hard-Fisted
+    - Forgetful
+    - Crotchety
+    - Terse
+Occupation :
+  Role : Wizard Impersonator
+  Note : Actually a Familiar
+  Location : Noxwall
+Description : >-
+  Faelix appears to be a miserly old wizard enjoying
+  his retirement as a curio shopkeeper with his scaly
+  catlike familiar, Azoth. In reality, Faelix is Azoth's
+  familiar, though it is unknown how this arrangement came
+  to be. Nevertheless, Faelix appears to be a wizard in
+  his own right.
+
+
+  Never one to
+  pass up an opportunity to earn some coin, Faelix will
+  often demand unreasonable prices for the shop's unique
+  wares, but can usually be haggled down to a more
+  reasonable arrangement.
+
+
+  
