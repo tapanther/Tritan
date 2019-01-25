@@ -19,36 +19,40 @@ markdown_extensions:
   - admonition
 
 nav:
-  - Home: 'index.md'
-  - Campaign:
-      - 'Act 0 - The Alchemist&#39;s Tomb' : 'CampaignLog_0.md'
-      - 'Act 1 - The Ravenous Horde' : 'CampaignLog_1.md'
-  - General:
-      - 'Alchemist&#39;s Journal' : 'AlchemistJournal.md'
-      - 'Book of Prophesy' : 'Prophesy.md'
-      - 'Gnolls' : 'Gnolls.md'
-      - 'Stonhyr&#39;s Speech at Noxwall' : 'StonhyrNoxwallSpeech.md'
-      - 'Timeline' : 'Timeline.md'
-      - 'Tritanian Calendar' : 'Calendar.md'
-  - History:
-      - 'Religion in Tritan' : 'Religion.md'
-  - Locations:
-      - 'Nonewallow' : 'Nonewallow.md'
-  - Major Powers:
-      - 'Kingdom of Dohlar' : 'Dohlar.md'
-      - 'Republic of Siddarmark' : 'Republic.md'
-  - NPC:
-      - 'Azoth the Wise' : 'Azoth.md'
-      - 'Faelix' : 'Faelix.md'
-      - 'Greghor Stonhyr' : 'GreghorStonhyr.md'
-      - 'Lyhl Habborhlyn' : 'Lyhl_Habborlyn.md'
-  - Organization:
-      - 'Cult of Five' : 'CultOfFive.md'
-      - 'Gahrdynyr Trade House' : 'GahrdynyrTradeHouse.md'
-      - 'Mother Church (Religion)' : 'MotherChurch.md'
-      - 'Republic Expeditionary Forces' : 'REF.md'
-  - Settlements:
-      - 'Blackpoint' : 'Blackpoint.md'
-      - 'Cantfall' : 'Cantfall.md'
-      - 'Noxwall' : 'Noxwall.md'
-      - 'Siddar City' : 'SiddarCity.md'
+  - Home : 'index.md'
+  - "Campaign" :
+    - "Act 0 - The Alchemist's Tomb" : 'CampaignLog_0.md'
+    - "Act 1 - The Ravenous Horde" : 'CampaignLog_1.md'
+  - "General" :
+    - "Alchemist's Journal" : 'AlchemistJournal.md'
+    - "Book of Prophesy" : 'Prophesy.md'
+    - "Gnolls" : 'Gnolls.md'
+    - "Stonhyr's Speech at Noxwall" : 'StonhyrNoxwallSpeech.md'
+    - "Timeline" : 'Timeline.md'
+    - "Tritanian Calendar" : 'Calendar.md'
+  - "History" :
+    - "Religion in Tritan" : 'Religion.md'
+  - "Locations" :
+    - "Nonewallow" : 'Nonewallow.md'
+  - "Major Powers" :
+    - "Kingdom of Dohlar" : 'Dohlar.md'
+    - "Republic of Siddarmark" : 'Republic.md'
+  - "NPC" :
+    - "Azoth the Wise" : 'Azoth.md'
+    - "Faelix" : 'Faelix.md'
+    - "Lyhl Habborhlyn" : 'Lyhl_Habborlyn.md'
+    - "Republic" :
+      - "Greghor Stonhyr" : 'GreghorStonhyr.md'
+  - "Organization" :
+    - "Cult of Five" : 'CultOfFive.md'
+    - "Mother Church (Religion)" : 'MotherChurch.md'
+    - "Republic" :
+      - "Gahrdynyr Trade House" : 'GahrdynyrTradeHouse.md'
+      - "Republic Expeditionary Forces" : 'REF.md'
+  - "Settlements" :
+    - "Kingdom of Dohlar" :
+      - "Blackpoint" : 'Blackpoint.md'
+    - "Republic" :
+      - "Cantfall" : 'Cantfall.md'
+      - "Noxwall" : 'Noxwall.md'
+      - "Siddar City" : 'SiddarCity.md'
