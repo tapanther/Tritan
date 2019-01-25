@@ -1,5 +1,6 @@
 ---
 class : Organization
+node : Organization
 template : Organization.md
 title : Cult of Five
 GeneralInfo :

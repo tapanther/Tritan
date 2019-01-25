@@ -1,5 +1,6 @@
 ---
 class : General
+node : General
 template : Generic.md
 title : Alchemist's Journal
 GeneralInfo :

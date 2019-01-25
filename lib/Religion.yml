@@ -1,5 +1,6 @@
 ---
 class : History
+node : History
 template : Generic.md
 title : Religion in Tritan
 GeneralInfo :

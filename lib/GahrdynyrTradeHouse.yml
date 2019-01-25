@@ -1,5 +1,6 @@
 ---
 class : Organization
+node : Organization/Republic
 template : Organization.md
 title : Gahrdynyr Trade House
 GeneralInfo :

@@ -1,5 +1,6 @@
 ---
 class : Locations
+node : Locations
 template : Location.md
 title : Nonewallow
 GeneralInfo :
