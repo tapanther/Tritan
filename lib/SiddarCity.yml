@@ -1,5 +1,4 @@
 ---
-class : Settlements
 node : Settlements/Republic
 template : Nation.md
 title : Siddar City

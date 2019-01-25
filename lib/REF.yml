@@ -1,5 +1,4 @@
 ---
-class : Organization
 node : Organization/Republic
 template : Organization.md
 title : Republic Expeditionary Forces

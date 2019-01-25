@@ -1,6 +1,5 @@
 ---
-class : NPC
-node : NPC
+node : NPC/Republic
 template : Character.md
 title : Lyhl Habborhlyn
 GeneralInfo :

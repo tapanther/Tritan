@@ -1,5 +1,4 @@
 ---
-class : NPC
 node : NPC/Republic
 template : Character.md
 title : Greghor Stonhyr
