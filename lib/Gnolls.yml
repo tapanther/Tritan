@@ -2,9 +2,10 @@
 class : General
 template : Generic.md
 title : Gnolls
-Description: >-
-  All images and information linked from [DnDBeyond](https://www.dndbeyond.com/)
-  and are used for reference purposes only.
+GeneralInfo:
+  Description: >-
+    All images and information linked from [DnDBeyond](https://www.dndbeyond.com/)
+    and are used for reference purposes only.
 Content:
   -
     Title: Description

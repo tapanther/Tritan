@@ -2,9 +2,10 @@
 class : General
 template : Generic.md
 title : Alchemist's Journal
-Description: >-
-  Hermes Trismegistus' Journal, recovered from his tomb, describing an
-  ancient and terrible weapon.
+GeneralInfo :
+  Description: >-
+    Hermes Trismegistus' Journal, recovered from his tomb, describing an
+    ancient and terrible weapon.
 Content:
   -
     separate: True

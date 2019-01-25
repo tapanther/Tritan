@@ -35,16 +35,20 @@ nav:
   - Locations:
       - 'Nonewallow' : 'Nonewallow.md'
   - Major Powers:
-      - 'Kingdom of Dohlar' : 'Blackpoint.md'
+      - 'Kingdom of Dohlar' : 'Dohlar.md'
       - 'Republic of Siddarmark' : 'Republic.md'
   - NPC:
+      - 'Azoth the Wise' : 'Azoth.md'
+      - 'Faelix' : 'Faelix.md'
       - 'Greghor Stonhyr' : 'GreghorStonhyr.md'
       - 'Lyhl Habborhlyn' : 'Lyhl_Habborlyn.md'
   - Organization:
       - 'Cult of Five' : 'CultOfFive.md'
       - 'Gahrdynyr Trade House' : 'GahrdynyrTradeHouse.md'
       - 'Mother Church (Religion)' : 'MotherChurch.md'
+      - 'Republic Expeditionary Forces' : 'REF.md'
   - Settlements:
-      - 'Blackpoint (City)' : 'BlackpointCity.md'
+      - 'Blackpoint' : 'Blackpoint.md'
+      - 'Cantfall' : 'Cantfall.md'
       - 'Noxwall' : 'Noxwall.md'
       - 'Siddar City' : 'SiddarCity.md'

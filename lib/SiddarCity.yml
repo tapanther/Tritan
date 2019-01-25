@@ -3,8 +3,10 @@ class : Settlements
 template : Nation.md
 title : Siddar City
 GeneralInfo :
-  Population : 80000
-  Government : '[Anocracy](https://en.wikipedia.org/wiki/Anocracy)'
+  Statistics :
+    Population : 80000
+    Government : '[Anocracy](https://en.wikipedia.org/wiki/Anocracy)'
+    Region : Old Province
   Ethics :
     - Militarist
     - Egalitarian
@@ -44,7 +46,7 @@ Society :
       buildings which at first glace may be mistaken for an administrative annex.
       Constructed at the direction of Urwyn Ludovic, the first Lord Protector,
       the Lord's Protector Palace is as much a symbol of the idealism of the
-      [Republic][Republic of Siddarmark] as it is a tangible representation of the
+      Republic as it is a tangible representation of the
       current state of the Republic.
 
       
@@ -62,6 +64,11 @@ Society :
       buildings have been taken over by the Army to house its growing bureaucracy.
       Perhaps most telling of all, the adjoining army academy fills the air with
       a cacophany of drums, whistles, and lockstep footfalls.
+    Headquarters of the Expedition : >-
+      Located in the Government District of Siddar City, the
+      Republic Expeditionary Forces Headquarters
+      is located within the military complex surrounding the Lord
+      Protector's Palace.
   Organizations:
     Gendarmerie of Siddar City : >-
       Descended from the original town watch, the Gendarmerie is an independent

@@ -2,57 +2,56 @@
 class : General
 template : Generic.md
 title : Tritanian Calendar
-Description: >-
-  ## Description
-  
-  The Tritanian Calendar is composed of 12 Moons, each lasting
-  31 days. The current calendar begins on the day that the
-  walls of The Gate were breached during the Great Sack. Years
-  are therefore referenced as *after the Sack* or *after the Great
-  Sack*, commonly written as *AGS*.
-
-
-  Dates are counted inclusively forward to the next one of three
-  principal days within each moon:
-
-
-  !!! example ""
-      - Kalends : First Day of the Moon
-        
-      - Nones   : Fifth Day of the Moon
-        
-      - Ides    : Thirteenth Day of the Moon
-
-        
-  Thus, a date is typically written as:
-
+GeneralInfo:
+  Description: >-
+    The Tritanian Calendar is composed of 12 Moons, each lasting
+    31 days. The current calendar begins on the day that the
+    walls of The Gate were breached during the Great Sack. Years
+    are therefore referenced as *after the Sack* or *after the Great
+    Sack*, commonly written as *AGS*.
     
-  !!! example ""
-      The *Dth* Day before the *Primary* of the *Mth* Moon, *Y* years after the Great Sack
-
-  
-  This can be shortened to:
-
     
-  !!! example ""
-      *D Primary* of Moon *M*, *Y* AGS
-
+    Dates are counted inclusively forward to the next one of three
+    principal days within each moon:
+    
+    
+    !!! example ""
+        - Kalends : First Day of the Moon
+          
+        - Nones   : Fifth Day of the Moon
+          
+        - Ides    : Thirteenth Day of the Moon
+    
+          
+    Thus, a date is typically written as:
+    
       
-  Or more compactly:
-
-
-  !!! example ""
-      `Y`Y `M`M `DPrim`
-  
-  
-  So for example, the following three phrases all refer to the same date:
-
+    !!! example ""
+        The *Dth* Day before the *Primary* of the *Mth* Moon, *Y* years after the Great Sack
     
-  !!! example ""
-      - 570Y 3M 15KAL
-      - 15 Kalends of Moon 3, 570 AGS
-      - The 15th Day before the Kalends of the 3rd Moon, 570 years after the Great Sack
-  
+    
+    This can be shortened to:
+    
+      
+    !!! example ""
+        *D Primary* of Moon *M*, *Y* AGS
+    
+        
+    Or more compactly:
+    
+    
+    !!! example ""
+        `Y`Y `M`M `DPrim`
+    
+    
+    So for example, the following three phrases all refer to the same date:
+    
+      
+    !!! example ""
+        - 570Y 3M 15KAL
+        - 15 Kalends of Moon 3, 570 AGS
+        - The 15th Day before the Kalends of the 3rd Moon, 570 years after the Great Sack
+    
 Content:
   -
     separate: true

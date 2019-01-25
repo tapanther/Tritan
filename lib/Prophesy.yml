@@ -2,9 +2,13 @@
 class : General
 template : Generic.md
 title : Book of Prophesy
-Description: >-
-  Book of Prophesy written by Mary the Prophetess in the First Age.
-Content:
+GeneralInfo :
+  Description : >-
+    Book of Prophesy written by Mary the Prophetess in the First Age.
+
+
+    A [modern translation][Book of Prophesy (Translated)] by Marus Daergel is available.
+Content :
   -
     separate: True
     Subtitle: Quatern I
@@ -95,28 +99,28 @@ Content:
     Title: By Candle’s Litte
     Text: |
       I.  
-      By Þe city where Þe wolfe wil enter  
-      Inne Þe great tomb of Þe Alchemist  
-      Þe great Þeatre wil come to be set up again  
-      Þe dice cast and Þe snares already laid  
-      
+      By candle’s litte Þe houre grows dimme  
+      Wen Þe litt’rs are ov’rturn’d  by wirlwin’  
+      An’ faces are cover’d by cloaks  
+      Þe newe republick shal be troubl’d by its people  
+
       II.  
-      Strangers gaÞered inne Þe Archer’s Reeve  
-      Wil be inne league, and wil bear Þem company  
-      Þe five strangers enter’d inne Þe temple  
-      Taken from Þe earÞ and suspend’d inne Þe air  
-      
+      Inne Þe worlde Þere wil be madde a king  
+      Who wil hav’ little pease and shortte life  
+      Þey wil be driv’n away for a longe fitte  
+      Þe countrysid wil be most grivously troubl’d  
+
       III.  
-      Þe sky of Cedar’s City forebodes to us  
-      Þrough clear signs and fix’d stars  
-      Þat Þe time of sudden change is approaching  
-      NeiÞer for its good, nor for its evils  
-      
+      A coffin is putte into Þe vault of iron  
+      Wher sev’n children of Þe king are held  
+      Þe ancestors wil comme forÞ from Þe depÞs of hell  
+      Lamenting to see Þus dead Þe frutte of Þeir linne  
+
       IV.  
-      Þe demon’s bones are Þus reveal’d  
-      It wil cause Þe earÞ to be stain’d wiÞ blood  
-      It wil burn lime, lodestone sulfur and pitch  
-      Þere wil be unleash’d live fire, horrible and frightful  
+      Tempus Þreatens us wiÞ Þe fors of war  
+      And wil caus bloode to be spilt sev’nty times  
+      Plague, famin, deaÞ from miltary hands  
+      Þe century approches its renew’l  
   -
     separate: True
     Subtitle: Quatern V
@@ -207,25 +211,25 @@ Content:
     Title: Heart Inhuman
     Text: |
       I.  
-      He who wil have Þe government of Þe great cope  
-      Wil be prevail’d upon to perform sev’ral deeds  
-      Þe twelve red ones who wil come to soil Þe cloÞ  
-      Und’r murder, murder wil come to be perpetrat’d  
-      
+      By Þe crumbled gate a terrible choice wil come to be made  
+      Þat to fire and ashe Þey wil consign Þe entire city  
+      Come suddenly Þe terror wil be great  
+      As to becloud Þe whole quality of Þe Sun  
+
       II.  
-      Þe city of liberty made servile  
-      Made Þe asylum of profligats and prostitutes  
-      Malicious plot and machination  
-      No heart wil be so hardy as not to tremble  
-      
+      Tears, cries and laments, howls, terror  
+      Heart inhuman, cruel, black and chilly  
+      A great realm wil be left desolat’d  
+      Who wil want to put Þe innocent ones to Þe fire  
+
       III.  
-      Some of Þose most lett’r’d inne celestial facts  
-      Wil be condem’d by Þe barbarous masses  
-      Punish’d by Edict, hunt’d, like criminals  
-      And put to deaÞ wherev’r Þey wil be found  
-      
+      No pease agreed upon wil be kept  
+      Þe serpent wil put to deaÞ every man  
+      Inne pease and truce, interpret’d opposite Þeir meaning  
+      He wil do much Þrough seductive means  
+
       IV.  
-      Þe change wil be very dificult  
-      City and provinse wil gain by Þe change  
-      Sworde, pease, under one divine word  
-      Pease and plenty, dust and ashe  
+      Oh, what a hideous calamity draws near  
+      Too late and boÞ Þe flowers wil be lost  
+      Inne an instant a great scatter’d flame wil leap up  
+      Þis deed wil be debat’d for a long time  

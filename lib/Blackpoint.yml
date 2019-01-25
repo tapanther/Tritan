@@ -3,8 +3,10 @@ class : Settlements
 template : Nation.md
 title : Blackpoint
 GeneralInfo :
-  Population : 30000
-  Government : Feudal Monarchy
+  Statistics :
+    Population : 30000
+    Government : Feudal Monarchy
+    Region : South March Province
   Ethics :
     - Imperial
     - Aristocratic

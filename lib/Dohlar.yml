@@ -3,8 +3,9 @@ class : Major Powers
 template : Nation.md
 title : Kingdom of Dohlar
 GeneralInfo :
-  Population : 805000
-  Government : Feudal Monarchy
+  Statistics :
+    Population : 805000
+    Government : Feudal Monarchy
   Ethics :
     - Imperial
     - Aristocratic

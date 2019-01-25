@@ -2,8 +2,9 @@
 class : General
 template : Generic.md
 title : Stonhyr's Speech at Noxwall
-Description: >-
-  Greghor Stonhyr's speech at Noxwall's introduction into the Republic.
+GeneralInfo :
+  Description: >-
+    Greghor Stonhyr's speech at Noxwall's introduction into the Republic.
 Content:
   -
     separate: True

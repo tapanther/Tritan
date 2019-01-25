@@ -3,14 +3,15 @@ class : NPC
 template : Character.md
 title : Greghor Stonhyr
 GeneralInfo :
-  Race : Tiefling (Zariel)
-  Age : 47
+  Statistics :
+    Race : Tiefling (Zariel)
+    Age : 47
   Traits :
     - Weary
     - Formal
     - Conscientious
 Occupation :
-  Role : Commander, Republic Expeditionary Forces
+  Role : Commander of the Expedition
   Note : Comissioned 561 AGS
   Location : REF Encampment, Ravenhelm Region
 Description : >-

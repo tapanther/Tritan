@@ -3,8 +3,10 @@ class : Settlements
 template : Nation.md
 title : Noxwall
 GeneralInfo :
-  Population : 3700
-  Government : Aristocracy
+  Statistics :
+    Population : 3700
+    Government : Aristocracy
+    Region : Old Province
 Society :
   Government : >-
     Until the gnoll incursion of 570 AGS, Noxwall was a small independent town

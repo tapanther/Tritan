@@ -4,8 +4,9 @@ template : Character.md
 title : Azoth the Wise
 altLink: Azoth
 GeneralInfo :
-  Race : Unknown
-  Age : Unknown
+  Statistics :
+    Race : Unknown
+    Age : Unknown
   Traits :
     - Lazy
     - Greedy
@@ -24,6 +25,7 @@ Description : >-
   Not much is known about Azoth, or his familiar Faelix.
   The pair had apparently been living within the Tomb of
   the Alchemist since before the end of the First Age.
+  How the two survived through six centuries is unknown.
 
 
   When first meeting the pair, people assume that Azoth

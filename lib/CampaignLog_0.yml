@@ -2,10 +2,11 @@
 class : Campaign
 template : Generic.md
 title : "Act 0 - The Alchemist's Tomb"
-Description: >-
-  A more complete log of the prelude can be found on
-  [Google Drive](https://docs.google.com/document/d/1pClbyUd3FwDQGPEz7niNguZ6bURtvHHYUoN8TwgeVbw/edit)
-  thanks to Alex's meticulous note keeping.
+GeneralInfo :
+  Description: >-
+    A more complete log of the prelude can be found on
+    [Google Drive](https://docs.google.com/document/d/1pClbyUd3FwDQGPEz7niNguZ6bURtvHHYUoN8TwgeVbw/edit)
+    thanks to Alex's meticulous note keeping.
 Content:
   -
     separate: True

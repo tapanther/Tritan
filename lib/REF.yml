@@ -1,0 +1,75 @@
+---
+class : Organization
+template : Organization.md
+title : Republic Expeditionary Forces
+altLink : REF
+GeneralInfo :
+  Statistics :
+    Type : Military Regiment
+    Membership : 3600
+    Allegiance : Republic of Siddarmark
+  Description : >-
+    The Expeditionary Forces, commonly known as the REF,
+    is a unit of the greater Army of the Republic primarily
+    concerned with operations outside the official borders
+    of the Republic.
+Structure :
+  Governance : >-
+      The REF is led by the Commander of the Expeditionary Forces,
+      a position appointed directly by the Lord Protector. The
+      current Commander is Greghor Stonhyr.
+
+
+      The Commander has great discretionary power, as the REF
+      exists outside the traditional Army hierarchy and answers
+      only to the Lord Protector himself. As such, the REF
+      is capable of the rapid and secretive deployments necessary
+      to quash nascent threats to the Republic and its protectorates.
+  Locations :
+    Headquarters of the Expedition : >-
+      Originally a small armory, the Expedition HQ is one of many
+      small buildings surrounding the Lord Protector's Palace that
+      has been repurposed to house the growing army bureaucracy. The
+      building is largely off-limits to non-REF personnel, though
+      a small recruiting office is located on the first floor.
+  Members :
+    Greghor Stonhyr : >-
+      The current Commander of the Expedition, Greghor Stonhyr was
+      commissioned on 561 AGS by Lyhl Habborhlyn in recognition of
+      two decades of distinguished service.
+    Tohazar Nammesarian : >-
+      Adjutant to the Expedition Commander, Tohazar is a Dragonborn
+      of chromatic red heritage. She is a Major in the Republican
+      Army.
+Culture :
+  Description : >-
+    Due to the extreme range and inherent nature of the REF's
+    operations, it is one of the most dangerous deployments
+    within the Republic's military. Sorties into the wilderness
+    may take weeks, if not months at a time. As a result, the REF
+    tends to be composed of well-trained individuals skilled in
+    survivalism. The REF does not actively recruit civilians, but
+    rather recruits from within the Army itself.
+
+
+    Life in the Expedition is physically and psychologically
+    demanding. Military readiness must be maintained year-round,
+    and tours of duty are typically served 5 years at a time.
+    The REF has the highest losses of any unit within the Army,
+    though losses per deployment figure is surprisingly one
+    of the best in the Army.
+
+
+    In return for their service, soldiers to transfer to
+    the REF can expect a significant seniority advance after
+    their tour is complete, not to mention a considerable
+    salary bump. Though dangerous, a tour with the REF is
+    an attractive option for the brave (and sometimes the
+    foolhardy).
+##History :
+##  Timeline :
+##    -
+##      Name : NAME
+##      Date : YEAR
+##      Description : >-
+##        TEXT

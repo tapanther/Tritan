@@ -3,8 +3,9 @@ class : Organization
 template : Organization.md
 title : Cult of Five
 GeneralInfo :
-  Type : Major Religion
-  Allegiance : Varies
+  Statistics :
+    Type : Major Religion
+    Allegiance : Varies
   Description : >-
     The Cult of Five is the primary religion of Eastern Tritan, having arisen
     independently several times throughout the various isolated towns and villages

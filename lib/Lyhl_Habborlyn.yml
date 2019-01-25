@@ -3,8 +3,9 @@ class : NPC
 template : Character.md
 title : Lyhl Habborhlyn
 GeneralInfo :
-  Race : Half Elf
-  Age : 87
+  Statistics :
+    Race : Half Elf
+    Age : 87
   Traits :
     - Reserved
     - Meticulous

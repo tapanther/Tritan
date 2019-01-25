@@ -4,8 +4,9 @@ template : Nation.md
 title : Republic of Siddarmark
 altLink : Republic
 GeneralInfo :
-  Population : 1250000
-  Government : Elective Dictatorship
+  Statistics :
+    Population : 1250000
+    Government : Elective Dictatorship
   Ethics :
     - Militarist
     - Egalitarian
@@ -19,11 +20,11 @@ Society :
     membership is highly coveted, as Member-Electors often have direct access
     to the current Lord Protector.
   Locations:
-    'Siddar City' : >-
+    Siddar City : >-
       The Republic's capital city. Located on the far Northeast coast of the
       Old Province, Siddar City is a bustling trade hub and the busiest port
       in all of Tritan.
-    'Noxwall' : >-
+    Noxwall : >-
       A small but important trading town, Noxwall only recently joined the
       Republic due to the gnoll incursion of 570 AGS.
   Organizations:

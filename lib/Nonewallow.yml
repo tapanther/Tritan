@@ -3,9 +3,10 @@ class : Locations
 template : Location.md
 title : Nonewallow
 GeneralInfo :
-  Type : Devastated Region
-  Region : Southgard Province
-  Population : Uninhabited
+  Statistics :
+    Type : Devastated Region
+    Region : Southgard Province
+    Population : Uninhabited
 Geography :
   Description : >-
       A region of countryside at the north end of Southguard
