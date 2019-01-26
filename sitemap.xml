@@ -31,11 +31,6 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://tapanther.github.io/Tritan/Prophesy/StonhyrNoxwallSpeech/</loc>
-     <lastmod>2019-01-25</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
      <loc>https://tapanther.github.io/Tritan/Prophesy/Timeline/</loc>
      <lastmod>2019-01-25</lastmod>
      <changefreq>daily</changefreq>
@@ -47,6 +42,16 @@
     </url>
     <url>
      <loc>https://tapanther.github.io/Tritan/Prophesy/Religion/</loc>
+     <lastmod>2019-01-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://tapanther.github.io/Tritan/Prophesy/StonhyrNoxwallSpeech/</loc>
+     <lastmod>2019-01-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://tapanther.github.io/Tritan/Prophesy/Terraworth/</loc>
      <lastmod>2019-01-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -67,6 +72,11 @@
     </url>
     <url>
      <loc>https://tapanther.github.io/Tritan/Prophesy/Azoth/</loc>
+     <lastmod>2019-01-25</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://tapanther.github.io/Tritan/Prophesy/Baltatrax/</loc>
      <lastmod>2019-01-25</lastmod>
      <changefreq>daily</changefreq>
     </url>
