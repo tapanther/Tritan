@@ -4,7 +4,8 @@ template : Generic.md
 title : 'Act 1 - The Ravenous Horde'
 Content:
   -
-    separate: True
+    Title: Session 1
+    separate: False
     Subtitle: 570Y 3M 15KAL
     Text: >-
       The Party exits the Tomb of the Alchemist several days
@@ -24,6 +25,7 @@ Content:
       formally welcoming them into the Republic but warning
       of trying times to come.
   -
+    Title: Session 2
     separate: True
     Subtitle: 570Y 3M 9KAL
     Text: >-
@@ -38,3 +40,57 @@ Content:
       that a warband must be nearby. Taking refuge in the miniature
       Nonewallow of the Zhackson estate, the Party scares off a gnoll
       pack by exploiting their fear of the supernatural ash.
+  -
+    Title: Session 3
+    separate: True
+    Subtitle: 570Y 3M 2NON
+    Text: >-
+      The Party arrives at Noxwall with the recovered supplies from Cantfall.
+      Alderman Mylz welcomes the party back, and expresses his gratitude for
+      the difficult job well done.
+
+      
+      In the meantime, Azoth and Faelix have opened up a magical curiosity
+      shop, identical to the one they were found in inside the Tomb. Marus
+      has taken up a position as their store clerk.
+  -
+    separate: True
+    Text: >-
+      A Unity Festival is being prepared in Noxwall. Merchants from nearby
+      towns have arrived and are prepping their wares for sale. Local merchants
+      departed for the nearest Republic cities. Some traditions are sacred,
+      and not even a gnoll pack can put them off.
+  -
+    separate: True
+    Subtitle: 570Y 3M NON
+    Text: >-
+      Durgu leads a small group of hunters to track down an Owlbear. Although
+      the group initially has a bad run, the re-focused group takes down an
+      Owlbear using the techniques taught by the half-orc.
+  -
+    separate: True
+    Subtitle: 570 3M 8IDE
+    Text: >-
+      With the Festival well underway, the Party, acting on a wild rumor,
+      discover that Marus has accidentally donated some of Azoth/Faelix's
+      trinkets as carnival game prizes. The *storytelling*, *spellcasting*,
+      and *insult throwing* games are known to have these trinkets.
+      Additionally, the huckster running the *shell* game may have lifted
+      an item from Faelix's shop.
+  -
+    separate: True
+    Text: >-
+      Tym wows an elderly crowd at the *storytelling* competition by recounting
+      the harrowing tale of two dragons, one red and one blue, vying for control
+      of a golden egg. The tale of the flying half-orc was particularly
+      amusing for the Alderman.
+  -
+    separate: True
+    Text: >-
+      Nykolai is beckoned over by the shady huckster running the shell game,
+      who reveals themselves to be a fellow thief. The two exchange a
+      fragmented conversation in that most cryptic language, thieves' cant
+      (or self-referrentially, *français*), the pair engage in a test of wits
+      and cunning. Taking advantage of a distraction caused by Xalston's blatant
+      mind-reading attempt, Nykolai tricks the huckster, and wins the stolen
+      prize.
