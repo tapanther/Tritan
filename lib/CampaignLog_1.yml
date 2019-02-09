@@ -129,3 +129,28 @@ Content:
       Offering their services to the Republic Commander, the party is sent on
       a recon expedition to an abandoned camp, to search for clues as to the
       whereabouts and plans of the gnoll pack.
+  -
+    separate: True
+    Title: Session 4
+    Text: >-
+      Arriving at the gnoll camp, the party discovers branching tracks that indicate
+      the gnolls have split up, with about 2/3 of their numbers heading in the general
+      direction of Noxwall and the rest heading southward.
+  -
+    separate: True
+    Text: >-
+      Following the southbound tracks, the Party passes through an area with
+      several mangled but uneaten carcasses of deer and other forest dwelling
+      creatures. It seems that a lot of the local beasts have been put into a
+      vicious state for some unknown reason. The Party's owl is also attacked
+      by an eagle. These uncharacteristic behaviors are concerning to the Party.
+  -
+    separate: True
+    Text: >-
+      Arriving at an ancient abandoned mine, the party uses their owl's enhanced hearing
+      to navigate the labyrinth of shafts and caverns, and discovers a demonic ritual
+      being performed by the gnolls deep underground. A Fang of Yeenoghu leads the
+      ritual with an idol of the demon lord. The sigils of Yeenoghu and Baltatrax
+      are overlaid on the chamber floor, along with what appears to be a
+      teleportation circle.
+  
