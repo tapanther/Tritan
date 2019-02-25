@@ -5,7 +5,7 @@ title : 'Act 1 - The Ravenous Horde'
 Content:
   -
     Title: Session 1
-    separate: False
+    separate: True
     Subtitle: 570Y 3M 15KAL
     Text: >-
       The Party exits the Tomb of the Alchemist several days
