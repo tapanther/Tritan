@@ -313,7 +313,7 @@ Content:
       again, before starting their trek into the ruins of the First Age.
   -
     separate: true
-    Subtitle: 570 3m 4IDE
+    Subtitle: 570Y 3M 4IDE
     Text: >-
       The party heads to the command tent to inform the Commander of their decision.
       Major Nammeserian, Stonhyr's silent adjutant, informs the party (via a nearby
@@ -327,3 +327,21 @@ Content:
       the Alderman's body, are quarreling over the cleric's refusal to perform the
       burial rites. Durgu inserts himself between the cleric and the irate Commander,
       forcing the latter to pause his tirade.
+
+
+      Pulling the Commander aside to a private conversation, Tym explains the party's
+      plan to resurrect the Alderman, which only further enragers Stonhyr. It seems
+      the latter views the idea of resurrection as nothing short of sacrilege. With no
+      other recourse and tensions rapidly rising between Noxwall and the Republic,
+      Tym convinces the Commander to back off and put his personal feelings aside for
+      the greater good.
+  -
+    separate: true
+    Subtitle: 570Y 3M 3IDE
+    Text: >-
+      As Vogrit, Azoth, and Faelix return to town, the party meets them outside the gates.
+      The trio show up hauling a massive stone slab, a recovered artifact from a site near 
+      the Alchemist's Tomb. On Faelix's instructions, Durgu uses his newly acquired carpentry
+      tools to expand the shop's entryway, allowing the massive slab to be rolled into the
+      new chamber that appears therein. The party decides it best not to ask questions of
+      the cranky familiar or the suspiciously-dragonlike wizard.
