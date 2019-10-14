@@ -1,0 +1,84 @@
+---
+node : Settlements/Republic
+template : Nation.md
+title : Tallowburn
+GeneralInfo :
+  Statistics :
+    Population : 1200
+    Government : '[Gerontocracy](https://en.wikipedia.org/wiki/Gerontocracy)'
+    Region : Old Province
+  Ethics :
+    - Spiritualist
+    - Xenophobic
+###  Description : >-
+###    TEXT
+Society :
+  Government : >-
+      Tallowburn retains its First Age council, composed of the respected elders of
+      the town. There are no formal qualifications for membership in the council,
+      but traditionally only those of at least 60 years of age are considered.
+###  Locations:
+###    NAME : >-
+###      TEXT
+###  Organizations:
+###    NAME : >-
+###      TEXT
+Culture :
+  Description : >-
+    Tallowburn is one of the oldest settlements in existence, having survived the
+    Great Sack thanks to its remote location at the far Northeastern corner of Tritan
+    and its self-imposed cultural isolation from the rest of the world.  Tallowburn
+    relied on regular trade with the Empire for fuel and foodstuffs, but kept direct
+    contact to a minimum, and discouraged outsiders from overstaying their welcome.
+
+
+    After the Great Sack, with the collapse of global trade routes, Tallowburn
+    quickly found itself half-starved and half-frozen. Though the town persevered for
+    several decades, the appearance of the settlement in Siddar Bay proved a godsend.
+    Despite their own endemic supply shortages, the refugees from Siddar sent food
+    and fuel rations before a formal trade agreement was even discussed. The
+    generosity was not lost on the traditionally xenophobic residents of Tallowburn,
+    who in turn became the Republic's earliest and closest allies.
+
+
+    While Tallowburn retain's nearly all of it's unique First Age cultural heritage,
+    its citizens are amongst the most fervent supporters of the Republic. The more
+    conservative factions within the Republic tend to associate strongly with
+    Tallowburn, urging Parliament and the Lord Protector to be more selective of
+    those it admits into the Union.
+###  CoreBeliefs :
+###    - LIST
+  Prejudices :
+    - Foreigners
+###  Minorities :
+###    - LIST
+  Values :
+    - >-
+      The Republic's greatest enemy is not the barbarian outside the gates; it's the
+      friend with a knife to her back.
+###  Heroes :
+###    NAME : >-
+###      TEXT
+###  Villains :
+###    NAME : >-
+###      TEXT
+###  Traditions :
+###    NAME : >-
+###      TEXT
+###  Religion : >-
+###    TEXT
+History :
+  Timeline :
+    -
+      Name : Siddar Sends Relief
+      Date : 2Y 11M
+      Description : >-
+        Donated fuel and foodstuffs from the encampment at Siddar's Bay arrives in time
+        for Tallowburn to survive a grueling winter. The gesture of generosity effectively
+        buys Siddar the undying loyalty of Tallowburn.
+    -
+      Name : Tallowburn MEP Sits in Parliament
+      Date : 186Y 1M IDE
+      Description : >-
+        After being granted a voting seat in Parliament, Awbrai Yair, age 68, becomes
+        the first sitting Member Elector of Parliament for a non-Siddar District.

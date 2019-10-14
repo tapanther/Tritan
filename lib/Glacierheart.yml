@@ -1,0 +1,68 @@
+---
+node : Settlements/Republic
+template : Nation.md
+title : Glacierheart
+GeneralInfo :
+  Statistics :
+    Population : 6500
+    Government : '[Stratocracy](https://en.wikipedia.org/wiki/Stratocracy)'
+    Region : Old Province
+  Ethics :
+    - Militarist
+    - Egalitarian
+Society :
+  Government : >-
+    Glacierheart is the first settlement officially established by the Republic, and
+    as such shares a similar governmental structure. The town is officially under the
+    jurisdiction of the Lord Protector, but day to day governance has almost entirely
+    been delegated to the Glacierheart Gendarmerie, under the command of the of
+    the Glacierheart Sergeant-at-Arms.
+
+
+    Like his Siddar counterpart, the Glacierheart S.A. is appointed by the Lord
+    Protector, though traditionally the selection is made from amongst a set of
+    candidates nominated through a general election. The top 3 vote gatherers are
+    forwarded to the Lord Protector for consideration.
+###  Locations:
+###    NAME : >-
+###      TEXT
+  Organizations:
+    Glacierheart Gendarmerie : >-
+      The Glacierheart Gendarmerie serve as the town's government and police force.
+      Like its Siddar counterpart, the Gendarmerie is an independent entity, not
+      directly under the Army of the Republic.
+Culture :
+  Description : >-
+    Glacierheart is primarily a mining town, supplying some of the finest quality
+    anthracite coal to the Republic's innumerable forges. The town's residents are
+    fiercely proud of their mining and metallurgical heritage, and are often
+    recruited as experts by mining and smeltry operations elsewhere. As the saying
+    goes, "Siddar is the Republic's shining beacon, but Glacierheart keeps it lit".
+###  CoreBeliefs :
+###    - LIST
+###  Prejudices :
+###    - LIST
+###  Minorities :
+###    - LIST
+###  Values :
+###    - >-
+###      TEXT
+###  Heroes :
+###    NAME : >-
+###      TEXT
+###  Villains :
+###    NAME : >-
+###      TEXT
+###  Traditions :
+###    NAME : >-
+###      TEXT
+###  Religion : >-
+###    TEXT
+History :
+  Timeline :
+    -
+      Name : Glacierheart Founded
+      Date : 113Y
+      Description : >-
+        Glacierheart is founded by the Republic to take advantage of the
+        natural coal and iron ore deposits under the frozen tundra.

@@ -1,0 +1,242 @@
+---
+node : General
+template : Generic.md
+control :
+  - no_link
+title : Alchemist's Journal (Translated)
+GeneralInfo :
+  Description: >-
+    Hermes Trismegistus' Journal, recovered from his tomb, describing an
+    ancient and terrible weapon.
+
+    
+    Second Age Common translation by Marus Daergel.
+Content:
+  -
+    separate: True
+    Subtitle: On the 3rd day before the Kalends of the second moon
+    Text: >-
+      A task has been given to me by the Council, to inspect an arcane artefact
+      recovered from the Catacombes beneath the ruins of the Old City. It is my
+      understanding that the artefact was found deep within the bowels of a most
+      terrible vault and guarded by mechanisms which claimed the lives of half the
+      expedition sent to retrieve it.
+
+      
+      It would appear the device emanates a loathesome radiance that has consumed
+      those whom fortune has tasked with its guardianship. As with all arcana, the
+      radiance can be eliminated by a protective shielding of lead. I shall have my
+      staff prepare a suitable chamber immediately.
+  -
+    separate: True
+    Subtitle: On the day before the Kalends of the second moon
+    Text: >-
+      The artefact has arrived and been safely esconced in the leaden chamber. A
+      cleric of Torm was fetched to ward off the effects of the radiance.
+      
+
+      The artefact is composed of a dark-gray metallic outer sphere some 60 inches in
+      diametre, with a square pedestal extending the height of the artefact by
+      another 40 inches. The outer shell appears to be made from overlapping curved
+      plates, much like those of plated armor, riveted together to protect the inner
+      mechanism.
+      
+
+      the entire artefact weighs an astounding 10,000 pounds, yet it rings hollow
+      when struck, indicating some substantial material must be hidden within.
+
+
+      I have tasked Stywyrt with the careful examination of the composition of the
+      outer armor. Father Tohmys believes his wards should hold for an hour or two
+      between castings, which should provide adequate protection for my apprentice.
+  -
+    separate: True
+    Subtitle: On the 3rd day before the Nones of the second moon
+    Text: >-
+      Stywyrt has made excellent progress with the artefact’s armor. The plates
+      proved simple to separate once we discovered the rivets are in fact screws. The
+      whole assembly was taken apart over the past four days, with each piece
+      cataloged and recorded for reassembly.
+
+      
+      The Inner mechanism is obviously arcane and certainly alchemical in nature, and
+      given the intricate gold and silver runes inscribed upon the ring of emerald
+      tablets within, it must channel a tremendous amount of energy. The tablets are
+      littered with small stones, jewels and charms, sometimes arranged chaotically
+      and others regularly. A seething mass of enameled wires of every color connect
+      the tablets to pustules that cover an inner sphere of metal, which has begun to
+      rust and flake at places.
+
+      
+      Stywyrt has confirmed this inner sphere is composed of a high purity
+      carboniferous ferrite, which chipped four of my best chisels before itself
+      fracturing. I do not understand the purpose of this second armor shell, the
+      contents must be precious indeed to warrant such protection.
+  -
+    separate: True
+    Subtitle: On the Ides of the second moon
+    Text: >-
+      It has taken many sleepless nights for Stywyrt to catalog every rune upon the
+      tablets. They are like nothing I have ever seen before. Even more confounding
+      is the construction of the tablets themselves, being too light and opaque for
+      gemstone, but made of no wood or stone familiar to my artificers.
+
+      
+      What we initially believed to be jewels and precious stones are nothing of the
+      sort. Given their overall arrangement I can only deduce they must help focus
+      and amplify the arcane energies, but by which manner I know not.
+
+      
+      Stywyrt is to remove the inner armor tomorrow and report his findings. I am
+      more and more certain that the artefact contains an alchemical egg of
+      tremendous size within. A large portion of the mass must have already
+      transmuted to gold, hence the artefact’s immense weight.
+
+      
+      We must proceed with extreme caution, a single drop of alkahest or spirit of
+      mercury could prove a lethal hazard. More terrifying still, we cannot rule out
+      the possibility of demonic contagion. Father Tohmys has agreed to find a cleric
+      of Selune to prepare a banishment rite.
+  -
+    separate: True
+    Subtitle: On the 19th day before the Kalends of the second moon.
+    Text: >-
+      It is not an alchemical egg.
+      
+
+      The inner armor holds yet another sphere, composed of hexagonal waxen brown
+      plates interlocked like the honeycomb of a bee’s hive. The pustules on the
+      inner armor to which the enameled wire connected appear to be mirrored on the
+      inner surface as well, with each waxen plate centered beneath a pustule.
+
+      
+      Stywyrt carefully scraped a small amount of wax from one of the plates, and had
+      yet smaller samples analyzed by Tymahns, a second-year apprentice. Had it not
+      been for Father Tohmys’ presence, we could have found ourselves in need of a
+      new Tymahns.
+
+      
+      The wax is explosive, detonating with a force unmatched even by the mixture of
+      coal, sulfur and saltpeter. A small shaving of the substance reacted
+      energetically when struck with sudden force or rapid friction.  Subjecting a
+      small shaving to all manners of flame produced a brilliant flash of concussive
+      energy that shattered nearby glassware.
+
+      
+      I shudder to think what 10,000 pounds could do.
+  -
+    separate: True
+    Subtitle: On the 13th day before the Kalends of the second moon
+    Text: >-
+      Logically, the artefact is a weapon. There can be no other purpose. Judging by
+      Stywyrt’s analysis, 10,000 pounds of compositio baratrum, as we call the waxen
+      substance, would instantly level the walls of any city or fortress standing
+      today. But so would 1000 pounds, or 100.
+
+      
+      Such a massive weapon would be impossible to sneak up to an effective
+      distance. The mule train needed to haul such a load would immediately be
+      assaulted long before the weapon could be set in place. There must be a reason
+      to create a weapon this massive that has as of yet eluded me.
+
+      
+      Stywyrt believes he can safely remove the outer set of honeycombed plates,
+      perhaps there is more to discover within.
+  -
+    separate: True
+    Subtitle: On the 11th day before the Kalends of the second moon
+    Text: >-
+      It is an alchemical egg.
+
+      
+      Stywyrt removed the compositio b. plates, and discovered yet another armor
+      sphere of a dull gray metal in two hemispheres, within which lay our prize: a
+      sphere of lustrous gold, polished to a perfect mirror.  Most troubling of all,
+      the egg radiates an unnatural warmth that can be felt a few inches away.
+
+
+      We dare not touch the surface. There are many things a mirror can be used for,
+      and sealed within a sphere, looking at oneself is not one of them.  Only the
+      most potent spells, far beyond even my capabilities, require a perfectly
+      polished mirror, and nearly all relate to dark powers I dare not name.
+  -
+    separate: True
+    Subtitle: On the 10th day before the Kalends of the second moon
+    Text: >-
+      Stywyrt has fallen ill. He cannot hold down solid food and his strenth has
+      failed. I have ordered the weapon’s chamber sealed until we can identify the
+      cause of his affliction.
+  -
+    separate: True
+    Subtitle: On the 6th day before the Kalends of the second moon
+    Text: >-
+      Father Tohmys can only seem to dispel the affliction for a a few hours before
+      the symptoms return. Stywyrt’s hair is nearly gone. A cleric of Kelemvor has
+      been summoned.
+
+      
+      There is no doubt in my mind, the egg is powered by a terrible demon trapped
+      within.
+  -
+    separate: True
+    Subtitle: On the day before the Kalends of the second moon
+    Text: >-
+      Stywyrt’s condition is much improved. Though it has taxed Father Tohmys, each
+      cycle the symptoms are weaker than the last. We hope the disease will break by
+      the Kalend.
+
+      
+      I have given much thought to the artefact. Though I remain convinced of a
+      demonic presence, as Stywyrt’s infirmity can attest, I am troubled by the
+      purpose of the explosive shroud. Stywyrt believes the explosion is meant to be
+      focused inwards.
+
+      
+      I had an artificer construct a crystal lens of the same proportions as the
+      compositio b. plates. It concentrates light where the center of the shroud
+      would be.
+  -
+    separate: True
+    Subtitle: On the 4th day before the Nones of the third moon
+    Text: >-
+      Stywyrt has nearly made a full recovery. Father Tohmys suggests depositing the
+      artefact in the deepest pit of the ninth hell where even Asmodeus dare not
+      tread. I am loathe to disagree with him.
+  -
+    separate: True
+    Subtitle: On the 2nd day before the Nones of the third moon
+    Text: >-
+      A dreadful dream came to me last night.
+
+      
+      A wave of infernal fire, fueled by the destructive force of the shroud, reaches
+      the golden sphere - and rebounds. The egg, empowered by the demonic spirit
+      within, feeds the wave as it expands again - now multiplied a thousandfold. In
+      a flash, the city is consumed, leaving in its place a hellish landscape of
+      sulfur and brimstone. From afar, a rising column of ash and smoke billows as an
+      inferno rages on below.
+
+      
+      I understand the purpose of the weapon. It is not meant to breach a city.  It
+      is meant to level it.
+  -
+    separate: True
+    Subtitle: On the Ides of the third moon
+    Text: >-
+      Mary came to me as I prepared to destroy the weapon. She has foreseen it,
+      too. And she brings most unwelcome news.
+
+      
+      Another weapon exists, retrieved from a vault more ancient and deadly than the
+      first by forces under a dark banner.
+
+      
+      Our age is at an end. Though it may be centuries more, the world will fall to
+      flame and sword. The fallen weapon will sear its frightful mark upon our world.
+
+      
+      As its counterpart will doom our age, this weapon may yet save the next. It
+      must remain hidden, lest it fall into the grasp of ruinous powers.
+
+      
+      I must make preparations.

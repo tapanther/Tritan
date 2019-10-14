@@ -2,13 +2,13 @@
 node : General
 template : Generic.md
 control:
-  - no_autolink
   - no_link
 title : Book of Prophesy (Translated)
 GeneralInfo:
   Description: >-
     Book of Prophesy written by Mary the Prophetess in the First Age.  
 
+    
     Second Age Common translation by Marus Daergel.
 Content:
   -
