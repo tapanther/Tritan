@@ -1,0 +1,94 @@
+---
+node : Settlements/Republic
+template : Nation.md
+title : Ravenshelm
+GeneralInfo :
+  Statistics :
+    Population : 35000
+    Government : Martial Law
+    Region : Old Province
+  Ethics :
+    - Aristocratic
+    - Imperial
+Society :
+  Government : >-
+      Ravenshelm is currently under martial law under the occupation of the Republic
+      Expeditionary Forces, commanded by Greghor Stonhyr. The city was in the midst
+      of a previous imposition of martial law by the Dusk Templars, following an
+      outbreak of Mormal Marasmus and a siege by a Gnoll Warband.
+
+
+      Prior to the siege and occupation, Ravenshelm was ruled by a City Council,
+      composed of the members of the Dohlaran peerage. Wealthy commoners, typically
+      members of the major merchant houses, were granted an advisory position, but
+      possessed no real power within the Council. Unlike it's counterpart in
+      Blackpoint, the Ravenshelm City Council was not beholden to millenia of
+      tradition and compromise between the Council and the individual nobles. As a
+      result, the Council had far greater authority and power over the city's
+      operations.
+
+
+      Since the majority of the city's nobles fled with the Dusk Templars, and the
+      subsequent annexation of the city by the Republic, it is unlikely that the
+      City Council will be restored once the epidemic is contained. It remains to
+      be seen what type of government the Republic will impose, but rumors of a
+      City Assembly have begun circulating among the surviving population.
+  Locations:
+    Basilica of the Eclipse (Ravenhelm) : >-
+      One of the most recently constructed temples, the Ravenhelm Basilica
+      is unique in that it eschews the traditional First Age aesthetic of many
+      Second Age temples in favor of a radical new design that prominently
+      features rib vaults and flying buttresses, and incorporates beautiful
+      stained glass mosaics behind the main altar.
+  Organizations:
+    City Watch : >-
+      The Ravenshelm City Watch continues exercising its duties throughout the city,
+      having preserved their independent status during the Republic occupation. The
+      Watch took heavy losses during the siege and the epidemic, but there has been
+      a recent surge of recruits, likely due to the collapse of the city's economy
+      and the stability afforded by the Republic's backing.
+Culture :
+  Description : >-
+    Ravenshelm was once an independent settlement, founded a scant 100 years after
+    the Great Sack. Due to the settlement's proximity to Blackpoint, the city's
+    culture and society quickly became a watered-down reflection of Blackpoint's own,
+    culminating in the Treaty of 381 where the Dohlaran Crown formally accepted oaths
+    of fealty from the city's nobility in exchange for official recognition and
+    representation in the Dohlaran peerage.
+
+
+    Unlike Blackpoint however, the majority of the city's population is composed of
+    freemen. In many ways, Ravenshelm's lack of tradition made it easier for the
+    population to adapt to new ideas trickling in from the Republic to the East.
+    Manufactories and commerce became the city's lifeblood, while the estates
+    surrounding the city remained firmly entrenched in the feudal system favored
+    by the Dohlaran Crown.
+###  CoreBeliefs :
+###    - LIST
+###  Prejudices :
+###    - LIST
+###  Minorities :
+###    - LIST
+###  Values :
+###    - >-
+###      TEXT
+###  Heroes :
+###    NAME : >-
+###      TEXT
+###  Villains :
+###    NAME : >-
+###      TEXT
+###  Traditions :
+###    NAME : >-
+###      TEXT
+###  Religion : >-
+###    TEXT
+History :
+  Timeline :
+    -
+      Name : Siege, Epidemic, and Annexation
+      Date : 570Y 3M
+      Description : >-
+        A Gnoll Warband lays siege to the City. Following an outbreak of Mormal
+        Marrasmus and the exodus of Templars and nobles from the city, the REF
+        liberates the city and formally annexes it for the Republic.
