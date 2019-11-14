@@ -76,7 +76,7 @@ Content:
     Title: Uþer
     Text: |
       !!! info "Quick Reference"
-          Character Sheet: N/A
+          Character Sheet: Uþer
           
           Gender: Neuter
           
@@ -86,11 +86,10 @@ Content:
           
           Alignment: Neutral
   -
-    Title: Arthyr
+    Title: Arthyr Borthwell
     Text: |
       !!! info "Quick Reference"
-      
-          Character Sheet: N/A
+          Character Sheet: Arthyr Borthwell
           
           Gender: Male
           
@@ -100,10 +99,10 @@ Content:
           
           Alignment: Neutral Good
   -
-    Title: Leighya
+    Title: Leighya Enryht
     Text: |
       !!! info "Quick Reference"
-          Character Sheet: N/A
+          Character Sheet: Leighya Enryht
 
           Gender: Female
 

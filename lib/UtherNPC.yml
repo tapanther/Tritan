@@ -1,0 +1,24 @@
+---
+node : NPC
+template : Character.md
+title : Uþer
+GeneralInfo :
+  Statistics :
+    Race : Doppelganger
+    Age : (?)
+  Traits :
+    - Shapeshifter
+    - Independent
+Occupation :
+  Role : None
+  Location : Terraworth
+Description : >-
+  Uþer is a neutral Doppelganger from Terraworth who was captured by flame cultists
+  and a group of explorers and relic hunters, in turn, while disguised as Leighya
+  Enryht. They are currently helping the explorers reach the Imperial Forum in exchange
+  for help in ridding the ruins of cultists.
+
+
+  Like all doppelgangers, Uþer is capable of reading surface thoughts of creatures within
+  line of sight. They have claimed to be the only doppelganger in the ruined city, though
+  the veracity of this statement is under question.
