@@ -1,0 +1,32 @@
+---
+node : NPC/Republic
+template : Character.md
+title : Arthyr Borthwell
+GeneralInfo :
+  Statistics :
+    Race : Human
+    Age : 37
+  Traits :
+    - Simple
+    - Loyal
+    - Informal
+Occupation :
+  Role : Relic Hunter
+  Note : Former Private, REF
+  Location : Terraworth
+Description : >-
+  Like his childhood friend Leighya, Arthyr Borthwell was an REF conscriptee
+  before he, along with Leighya, deserted their posts in order to repay
+  a debt to a Flameskull.
+
+
+  The pair had been deployed to Terraworth for a rescue operation, but
+  became separated from the rest of their unit. Just as a skeletal warrior
+  was about to ambush Leighya, a Flameskull sprang out of nowhere and blasted
+  the would-be assailant, saving her life before descending once again
+  into torturous madness.
+
+
+  Arthyr went along with Leighya mostly out of a sense of loyalty to his
+  longtime friend, though he has hopes of making amends with the REF and
+  enlisting once again when their expedition to Terraworth is over.

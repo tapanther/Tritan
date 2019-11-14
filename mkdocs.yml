@@ -37,11 +37,11 @@ nav:
     - Religion in Tritan : Religion.md
     - Stonhyr's Speech at Noxwall : StonhyrNoxwallSpeech.md
   - Locations :
+    - Nonewallow : Nonewallow.md
     - First Age Ruins :
       - Broken Gate : Gate.md
       - Leadenport : Leadenport.md
       - Terraworth : Terraworth.md
-    - Nonewallow : Nonewallow.md
   - Major Powers :
     - Kingdom of Dohlar : Dohlar.md
     - Republic of Siddarmark : Republic.md
@@ -49,8 +49,14 @@ nav:
     - Azoth the Wise : Azoth.md
     - Baltatrax the Ravager : Baltatrax.md
     - Faelix : Faelix.md
+    - Blackpoint :
+      - Nyhlus Verriskrit : NyhlusVerriskrit.md
+    - Cult of the Eternal Flame :
+      - Pleas Morgan : PleasMorgan.md
     - Republic :
+      - Arthyr Borthwell : ArthyrBorthwell.md
       - Greghor Stonhyr : GreghorStonhyr.md
+      - Leighya Enryght : LeighyaEnryht.md
       - Lyhl Habborhlyn : Lyhl_Habborlyn.md
   - Organization :
     - Cult of Five : CultOfFive.md

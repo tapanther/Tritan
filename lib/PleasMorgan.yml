@@ -1,0 +1,55 @@
+---
+node : NPC/Cult of the Eternal Flame
+template : Character.md
+title : Pleas Morgan
+GeneralInfo :
+  Statistics :
+    Race : (?)
+    Age : (?)
+  Traits :
+    - Heretic (Elumin)
+    - Deranged
+Occupation :
+  Role : Cultist
+  Location : Terraworth
+Description : >-
+  Not much is known of Pleas, aside from what can be gleamed from Nyhlus'
+  description and his discovered journal.
+
+
+  Pleas was a newly appointed prelate of the Primacy of Blackpoint, the
+  highest religious authority in the Kingdom. He had been corrupted by
+  the dark teachings of Elumin, and was tried for heresy by Nyhlus Verriskrit.
+
+
+  While awaiting final sentencing in the Kilmainham Gaol, Blackpoint's crown
+  prison, Pleas was freed by members of a heretical cult, and fled to
+  Terraworth to pursue what he believed to be his life's calling: to free
+  a creature locked deep within the vaults of the Imperial Archives, a
+  terrible dark angel of his God.
+
+  !!! note "Pleas' Journal"
+      *569Y 7M 18KAL* - I saw the light of the golden candles that shone down upon him
+      who dwells beneath the brass gates, an angel cast out of the tribe of the martyr
+      and sealed with hellfire. I know what I must do. My master wills it.
+
+      The blasphemers who dared to cast me out shall taste the righteous hellfire of
+      my master's wrath, delivered upon the swordpoint of the cast away angel.
+
+      *569Y 10M 8IDE* - I have found the brass gates, but the heretics' seals
+      frustrate me still. My master grows impatient. I must not disappoint him.
+
+      *570Y 1M 6NON* - A vision came to me. I must walk in the angel's footsteps
+      if I am to free him. I have studied the *true* holy texts of Elumin, and with
+      the enchained angel's tomes I shall ascend to Elumin's side.
+
+      *570Y 3M 12KAL* - The first seal is broken. My master is pleased. The angel
+      Elandorr shall once again spread my master's light throughout Tritan, and I
+      shall have my revenge upon the apostates. Praise Elumin.
+
+      Tomorrow, I shall return to the angel's keep and continue my search for the
+      holy basin upon which the angel shall restore his heavenly host.
+      
+      *570Y 3M 3KAL* I have failed in my search for the angel's basin. I can only
+      trust in Elumin's grace that the angel shall prevail despite my failure. I
+      will return to the brass gates on the morrow.
