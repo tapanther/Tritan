@@ -22,9 +22,11 @@ markdown_extensions:
 nav:
   - Home : index.md
   - Campaign :
-    - Act 0 - The Alchemist's Tomb : CampaignLog_0.md
-    - Act 1 - The Ravenous Horde : CampaignLog_1.md
-    - Act 2 - The Emerald Tablets : CampaignLog_2.md
+    - Current Party Makeup : CurrentParty.md
+    - Logs :
+      - Act 0 - The Alchemist's Tomb : CampaignLog_0.md
+      - Act 1 - The Ravenous Horde : CampaignLog_1.md
+      - Act 2 - The Emerald Tablets : CampaignLog_2.md
   - General :
     - Alchemist's Journal : AlchemistJournal.md
     - Book of Prophesy : Prophesy.md

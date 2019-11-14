@@ -1,5 +1,5 @@
 ---
-node : Campaign
+node : Campaign/Logs
 template : Generic.md
 title : "Act 0 - The Alchemist's Tomb"
 GeneralInfo :

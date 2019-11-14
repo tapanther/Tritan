@@ -1,0 +1,120 @@
+---
+node : Campaign
+template : Generic.md
+title : Current Party Makeup
+GeneralInfo :
+  Description: |
+    This page holds the current party makeup, including NPCs.
+Content:
+  -
+    separate: true
+    Title: Durgu
+    Text: |
+      !!! info "Quick Reference"
+          Character Sheet: [Durgu]
+
+          Gender: Male
+
+          Race: Half-Orc
+
+          Class: Fighter / Battle Master
+
+          Alignment: ?
+  -
+    Title: Nykolai
+    Text: |
+      !!! info "Quick Reference"
+          Character Sheet: [Nykolai]
+
+          Gender: Female
+
+          Race: Halfling
+
+          Class: Rogue / Arcane Trickster
+
+          Alignment: ?
+  -
+    Title: Tayfe
+    Text: |
+      !!! info "Quick Reference"
+          Character Sheet: [Tayfe]
+
+          Gender: Female
+
+          Race: Tiefling
+
+          Class: Sorcerer / Draconic Bloodline
+
+          Alignment: ?
+  -
+    Title: Tymahn Arthyr
+    Text: |
+      !!! info "Quick Reference"
+          Character Sheet: [Tymahn Arthyr]
+
+          Gender: Male
+
+          Race: Half-Elf
+
+          Class: Bard / Colelge of Lore
+
+          Alignment: ?
+  -
+    Title: Xalston
+    Text: |
+      !!! info "Quick Reference"
+          Character Sheet: [Xalston]
+
+          Gender: Male
+
+          Race: Elf
+
+          Class: Wizard / School of Abjuration
+
+          Alignment: ?
+  -
+    Title: Uþer
+    Text: |
+      !!! info "Quick Reference"
+          Character Sheet: N/A
+          
+          Gender: Neuter
+          
+          Race: Doppelganger
+          
+          Class: N/A
+          
+          Alignment: Neutral
+  -
+    Title: Arthyr
+    Text: |
+      !!! info "Quick Reference"
+      
+          Character Sheet: N/A
+          
+          Gender: Male
+          
+          Race: Human
+          
+          Class: N/A
+          
+          Alignment: Neutral Good
+  -
+    Title: Leighya
+    Text: |
+      !!! info "Quick Reference"
+          Character Sheet: N/A
+
+          Gender: Female
+
+          Race: Human
+
+          Class: N/A
+
+          Alignment: Neutral Good
+Refs:
+  Durgu: https://www.dndbeyond.com/profile/Caruban/characters/6186767
+  Nykolai: https://www.dndbeyond.com/profile/ciq666/characters/6187211
+  Tayfe: https://www.dndbeyond.com/profile/Quixy101/characters/18995566
+  Tymahn Arthyr: https://www.dndbeyond.com/profile/qoalabear/characters/3266568
+  Xalston: https://www.dndbeyond.com/profile/Baney/characters/3067255
