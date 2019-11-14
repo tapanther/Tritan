@@ -1,0 +1,93 @@
+---
+node : Campaign
+template : Generic.md
+title : 'Act 2 - The Emerald Tablets'
+Content:
+  -
+    separate: true
+    Title: Session 1
+    Subtitle: 570Y 4M KAL
+    Text: >-
+      With Ravenhelm securely in the Republic's hands, the party teleports to the
+      Tomb of the Alchemist to being the journey to Terraworth. Progress is slow,
+      as the roads beyond the Serpent's Pass have deteriorated in the centuries
+      since the Sack, and the road is plagued with dangerous creatures.
+  -
+    Subtitle: 570Y 4M 6IDE
+    Text: >-
+      On the eighth day of the journey, the party detours slightly to Arkala,
+      an abandoned border town, and discovers a pair of Republic soldiers under attack
+      by the undead. After rescuing the soldiers, the pair introduce themselves as
+      Leighya and Arthyr, childhood friends who've decided to take up treasure hunting
+      now that their commissions in the REF are expired. They seem to have better local
+      knowledge, having "borrowed" a manuscript detailing the history of Terraworth
+      from the Blackpoint library archives. The party agrees to escort Leighya and
+      Arthyr in exchange for their help in locating the Golden Vault within the Imperial
+      Archives deep inside the city.
+  -
+    separate: true
+    Title: Session 2
+    Subtitle: 570Y 4M 5IDE
+    Text: >-
+      The party next investigated the abandoned Lich's tower on the city outskirts.
+      The journey took several days, and the party began to notice some strange sounds
+      emanating from Leighya's bag. On closer inspection, the bag was always kept within
+      arm's reach of either of the two soldiers, and treated very gingerly. When asked
+      about it, the pair simply replied that it held expensive potions in delicate
+      glass jars.
+  -
+    Subtitle: 570Y 4M IDE
+    Text: >-
+      The party eventually reaches Krutoq's Tower. Although the ruins date from
+      before the Great Sack, the party found evidence of a recent incursion into the
+      tower by a deranged individual seeking to revive "an angel" caged deep within
+      the Terraworth Archives in the form of a lost journal. The journal itself is
+      clearly an item of great material worth, as it is the kind given to prelates of
+      the Primacy of Blackpoint, high ranking clerical officials of the rival kingdom.
+
+
+      A thorough investigation of the tower reveals a sealed underground chamber,
+      filled knee-deep in blood. Despite the age of the ruins, the blood has been
+      preserved through arcane means, and the party deduces that it must have been
+      created before the destruction of the tower, several hundred years before the
+      Great Sack.
+
+
+      While the party investigates the tower, Durgu and Leighya establish a mutual
+      understanding about the latter's suspicious behavior. Although she is reluctant
+      to reveal what secrets the bag holds, Leighya assures Durgu that the contents mean
+      them no harm.
+  -
+    separate: true
+    Title: Session 3
+    Subtitle: 570Y 4M 16KAL
+    Text: >-
+      The party spends the next few days travelling in the direction of Terraworth
+      proper. The soldiers' bag continues to make strange noises, and the party grows
+      increasingly suspicious of their guides. The party eventually confronts the soldiers,
+      who reveal the bag contains a Flameskull - the re-animated flaming skull of a warrior.
+      They explain that the Flameskull saved their lives long ago, when their unit was
+      deployed to Terraworth, and the pair swore to help the trapped soul escape the madness
+      imposed upon it through undeath. The party agrees to try to help the two soldiers in
+      their quest, but remain wary of the danger presented by the insane skull.
+
+
+      The party consults Azoth, who provides the details of a ritual to break the spell
+      over the Flameskull:
+
+
+      !!! info "The Flameskull's Ritual"
+          The following components must be placed within the ritual circle, surrounding
+          the Flameskull:
+
+
+          * The blood sacrifice of a willing creature
+
+
+          * A blade that has taken a life.
+
+
+          * The head of the reanimator.
+
+
+      With this information in hand, the party continues onwards to Terraworth.
