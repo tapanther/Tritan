@@ -49,11 +49,13 @@ nav:
     - Azoth the Wise : Azoth.md
     - Baltatrax the Ravager : Baltatrax.md
     - Faelix : Faelix.md
-    - Uþer : UþerNPC.md
+    - Uþer : UtherNPC.md
     - Blackpoint :
       - Nyhlus Verriskrit : NyhlusVerriskrit.md
     - Cult of the Eternal Flame :
       - Pleas Morgan : PleasMorgan.md
+    - Ravenhelm :
+      - Jacques Manget : JacquesManget.md
     - Republic :
       - Arthyr Borthwell : ArthyrBorthwell.md
       - Greghor Stonhyr : GreghorStonhyr.md
@@ -65,6 +67,8 @@ nav:
     - Republic :
       - Gahrdynyr Trade House : GahrdynyrTradeHouse.md
       - Republic Expeditionary Forces : REF.md
+    - Villains :
+      - Eternal Flame Cult : EternalFlameCult.md
   - Settlements :
     - Kingdom of Dohlar :
       - Blackpoint : Blackpoint.md

@@ -1,0 +1,67 @@
+---
+node : Organization/Villains
+template : Organization.md
+title : Eternal Flame Cult
+GeneralInfo :
+  Statistics :
+    Type : Religious Cult
+    Membership : Unknown <?>
+    Allegiance : Dark Elumin
+  Description : >-
+    The Eternal Flame Cult appeals to those drawn to destruction for its own
+    sake. Creatures of elemental fire are most likely to take up this reckless
+    philosophy; even non-intelligent fire monsters sense the reckless lust for
+    destruction lurking in the hearts of fire cultists and consider Eternal Flame
+    believers to be their allies.
+
+
+    Followers of the Eternal Flame cult surround themselves with the largest fires
+    they can create. Their favorite tactic involves using magic to open volcanic
+    fissures or vents and channel flows of molten rock. Widespread arson and
+    deliberately set forest fires are acceptable alternatives. Most fire cultists
+    believe that something important and beautiful should be set on fire every day,
+    or else they’re just not doing their part.
+Structure :
+#  Governance : >-
+#      TEXT
+  Locations :
+    Abandoned Mine near Noxwall : >-
+      The Eternal Flame Cult and their gnoll allies had set up a
+      demonic ritual deep within an abandoned mine to the Southwest
+      of the town of Noxwall. This site was destroyed by Republic-allied
+      forces in 570Y 3M.
+    Terraworth : >-
+      Led by a heretical prelate from Blackpoint by the name of Pleas Morgan,
+      the Cult established a strong presence within the ruins of Terraworth,
+      taking over many of the ruins in the Imperial District in 570Y.
+  Members :
+    Pleas Morgan : >-
+      A disgraced, heretical prelate from Blackpoint, Pleas Morgan was
+      tried and convicted by the Ecclesiastic Court, and subsequently
+      incarcerated in the Kilmainham Gaol, Blackpoint's crown prison.
+      He was subsequently freed by the Cult through unknown means and
+      escaped to the ruins of Terraworth.
+#  Associations :
+#    NAME : >-
+#      TEXT
+#Culture :
+#  Description : >-
+#    TEXT
+#  Values :
+#    - >-
+#      TEXT
+#  Traditions :
+#    NAME : >-
+#      TEXT
+History :
+  Timeline :
+    -
+      Name : Gnoll Teleportation Ritual
+      Date : 570Y 3M 8IDE
+      Description : >-
+        The Eternal Flame Cult cooperates with a Gnoll War Band attacking Noxwall.
+    -
+      Name : Eternal Flame Cult Presence in Terraworth
+      Date : 570Y
+      Description : >-
+        The Eternal Flame Cult takes over many of the ruins of Terraworth's Imperial District.

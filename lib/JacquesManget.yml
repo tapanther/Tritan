@@ -1,0 +1,34 @@
+---
+node : NPC/Ravenhelm
+template : Character.md
+title : Jacques Manget
+GeneralInfo :
+  Statistics :
+    Race : Half-Elf
+    Age : 57
+  Traits :
+    - Direct
+    - Impersonal
+Occupation :
+  Role : Apothecary
+  Note : Expertise in Epidemiology
+  Location : Ravenhelm
+Description : >-
+  A formerly obscure apothecary from the city of Ravenhelm, Jacques
+  Manget was propelled to fame thanks to his tireless efforts to
+  diagnose the lethal plague that decimated the city in late 570Y 4M.
+
+
+  Jacques had refused a Crown Summons, which would have all but sequestered
+  him within some noble's mansion, and prevented any real progress towards
+  the discovery of a cure. Aided by Republic-aligned forces, Jacques was
+  able to determine the identity of the disease, confirming it to be Mormal
+  Marrasmus, a lethal magical ailment.
+
+
+  After the liberation of the city by the REF, Jacques was put in charge
+  of the relief effort to generate sufficient tincture of ichor to cure those
+  infected by the plague. With the Republic's full financial support, the
+  effort is well underway. Recent estimates suggest that as much as 30% of
+  the infected population has had the tincture administered, a promising
+  sign.
