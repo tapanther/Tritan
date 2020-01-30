@@ -1,0 +1,43 @@
+---
+node : Organization/Republic
+template : Organization.md
+title : High Court of Inquiry
+GeneralInfo :
+  Statistics :
+    Type : Government of the Republic
+    Membership : 5
+    Allegiance : Republic
+  Description : >-
+    The High Court of Inquiry has its origins in a First Age instutition of the same
+    name, and is composed of a rotating panel of the highest ranking members of the
+    Republic's government. The Court was originally established to ensure fair
+    enforcement of the laws against powerful and prominent members of the Republic
+    that could not be tried in ordinary courts. 
+Structure :
+  Governance : >-
+      TEXT
+  Locations :
+    NAME : >-
+      TEXT
+  Members :
+    NAME : >-
+      TEXT
+  Associations :
+    NAME : >-
+      TEXT
+Culture :
+  Description : >-
+    TEXT
+  Values :
+    - >-
+      TEXT
+  Traditions :
+    NAME : >-
+      TEXT
+History :
+  Timeline :
+    -
+      Name : NAME
+      Date : YEAR
+      Description : >-
+        TEXT
