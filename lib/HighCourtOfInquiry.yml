@@ -12,19 +12,56 @@ GeneralInfo :
     name, and is composed of a rotating panel of the highest ranking members of the
     Republic's government. The Court was originally established to ensure fair
     enforcement of the laws against powerful and prominent members of the Republic
-    that could not be tried in ordinary courts. 
+    that could not be tried in ordinary courts.
+
+
+    At first, the Court was hailed as a bastion of Justice and open minded reform.
+    While a certain degree of patronage and quid-pro-quo has existed since the
+    inception of Parliament, there are limits to what the people are willing to accept.
+    Parliamentarians who engaged in outright corruption and vote manipulation quickly
+    found themselves hauled before the High Court of Inquiry.
+
+
+    Within the past century however, the Court has become an instrument not of blind
+    justice but of political expediency and oppression. Judgements became arbitrary,
+    and often predetermined, with the actual trial merely a theatre for the State
+    to present its version of the truth.
+
+    
+    Though the Lord Protectory typically does not involve themselves in the Court's
+    process once a panel has been selected, there have been instances where a sitting
+    Lord has chosen to prosecute the case themselves. No such case has ever resulted
+    in an acquittal.
 Structure :
   Governance : >-
-      TEXT
+    Unlike typical courts, the members of the High Court of Inquiry are chosen by
+    the Lord Protector from among the Republic's high officials. Originally, this
+    was intended as a mechanism to ensure that the Court's Justices would never be
+    compromised by the defendants, as the Lord Protector could simply avoid selecting
+    any official likely to have a conflict of interest. In practice, the panel is
+    selected specifically to achieve the desired verdict, often against the defendant.
+
+    The administration of the Court falls under the jurisdiction of the Provost
+    Marshal, the highest ranking member of the Republic's Military Police (Provosts).
+    The Republic's Provosts serve as both the clerical staff and security personnel
+    for the Court, and can compel the assistance of citizens and members of the Army
+    through the use of General Warrants.
   Locations :
-    NAME : >-
-      TEXT
+    Sterred Chambre : >-
+      Located within the halls of the Palace of Justice in Siddar City, the High
+      Court of Inquiry convenes within a hall commonly referred to in Old Common as
+      the *Sterred Chambre*, after the gilded stars on blue background that decorate
+      the ceiling.
   Members :
-    NAME : >-
-      TEXT
-  Associations :
-    NAME : >-
-      TEXT
+    Quartermaster General : Major General Edmynd Magwair
+    Commander of the Expedition : Brigadier Greghor Stonhyr (Suspended)
+    Sergeant-at-Arms of the Siddar Gendarmerie : Sergeant Ahryn Tohmys
+    Deacon of Siddar City : Deacon Ansahl Crowle
+    Chancellor of Parliament : MEP Kaaryl Praigyr
+    Admiral of the Navy : Admiral Yairdahn Suwyl (Replacing Commander REF)
+#  Associations :
+#    NAME : >-
+#      TEXT
 Culture :
   Description : >-
     TEXT
