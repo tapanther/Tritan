@@ -82,15 +82,16 @@ Structure :
     Governance : |
       ```mermaid
       graph TD;
-        classDef BlkD fill:#DDD,stroke:#888,stroke-width:2px;
+        %%classDef BlkD fill:#DDD,stroke:#888,stroke-width:2px;
+
         subgraph HC1[High Court of Inquiry]
-          lp[Lord Protector]:::BlkD
-          hc{{High Court of Inquiry}}:::BlkD
-          js[Justices]:::BlkD
-          pm[Provost Marshal]:::BlkD
-          pg[Procurator General]:::BlkD
-          pr(Provosts):::BlkD
-          def[Defendant]:::BlkD
+          lp[Lord Protector]
+          hc{{High Court of Inquiry}}
+          js[Justices]
+          pm[Provost Marshal]
+          pg[Procurator General]
+          pr(Provosts)
+          def[Defendant]
           
           lp-- Assigns -->js;
           lp-- Appoints -->pm;
@@ -103,18 +104,18 @@ Structure :
           js-- Preside Over -->hc;
         end
 
-        style HC1 fill:#AAA,stroke:#111,stroke-width:2px
+        style HC1 fill:#FFF,stroke:#FFF,stroke-width:2px
         
       ```
-Culture :
-  Description : >-
-    TEXT
-  Values :
-    - >-
-      TEXT
-  Traditions :
-    NAME : >-
-      TEXT
+#Culture :
+#  Description : >-
+#    TEXT
+#  Values :
+#    - >-
+#      TEXT
+#  Traditions :
+#    NAME : >-
+#      TEXT
 History :
   Timeline :
     -
@@ -125,3 +126,11 @@ History :
         to be brought before the Court, on charges of corruption. The trial draws massive
         popular attention, and leads to weeks of riots between supporters and opponents
         after the guilty verdict is handed down.
+    -
+      Name : Brigadier Stonhyr Arraigned
+      Date : 570Y 4M IDE
+      Description : >-
+        Following the annexation of Ravenhelm by the Expedition, and the subsequent
+        souring of relations between the Republic and Blackpoint, Brigadier Greghor
+        Stonhyr was arraigned by the High Court of Inquiry on charges of official
+        corruption and abuse of power.
