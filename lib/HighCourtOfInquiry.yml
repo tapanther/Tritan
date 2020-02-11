@@ -5,7 +5,7 @@ title : High Court of Inquiry
 GeneralInfo :
   Statistics :
     Type : Government of the Republic
-    Membership : 5
+    Membership : 3
     Allegiance : Republic
   Description : >-
     The High Court of Inquiry has its origins in a First Age instutition of the same
@@ -34,18 +34,31 @@ GeneralInfo :
     in an acquittal.
 Structure :
   Governance : >-
-    Unlike typical courts, the members of the High Court of Inquiry are chosen by
-    the Lord Protector from among the Republic's high officials. Originally, this
-    was intended as a mechanism to ensure that the Court's Justices would never be
-    compromised by the defendants, as the Lord Protector could simply avoid selecting
-    any official likely to have a conflict of interest. In practice, the panel is
-    selected specifically to achieve the desired verdict, often against the defendant.
-
     The administration of the Court falls under the jurisdiction of the Provost
-    Marshal, the highest ranking member of the Republic's Military Police (Provosts).
-    The Republic's Provosts serve as both the clerical staff and security personnel
-    for the Court, and can compel the assistance of citizens and members of the Army
-    through the use of General Warrants.
+    Marshal, the highest ranking member of the Republic's military police (Provosts).
+    The Republic's Provosts serve as both the clerical staff and law enforcement
+    personnel for the courts, and can compel the assistance of citizens and members of
+    the Army through the use of Specific and General Warrants.
+
+
+    The investigation and prosecution of cases for the High Court is the sole
+    responsibility of the Procurator General, the ranking officer among the
+    government's lawyers within the Provost Marshal's Office. It is the Procurator's
+    role to build and present the State's case against the accused.
+
+
+    Unlike typical courts, the Justices of the High Court of Inquiry are chosen by
+    the Lord Protector from among the Republic's high officials. Although there are
+    no restrictions as to who may serve on the High Court, the offices typically
+    appointed (and their incumbents) are presented below. Of the available candidates,
+    three are chosen to serve as the need arises.
+
+    
+    Originally, this selection mechanism was intended to ensure that the Court's
+    Justices would never be compromised by the defendants, as the Lord Protector
+    could simply avoid selecting any official likely to have a conflict of
+    interest. In practice, the panel is selected specifically to achieve the desired
+    verdict, often against the defendant.
   Locations :
     Sterred Chambre : >-
       Located within the halls of the Palace of Justice in Siddar City, the High
@@ -53,15 +66,46 @@ Structure :
       the *Sterred Chambre*, after the gilded stars on blue background that decorate
       the ceiling.
   Members :
-    Quartermaster General : Major General Edmynd Magwair
-    Commander of the Expedition : Brigadier Greghor Stonhyr (Suspended)
-    Sergeant-at-Arms of the Siddar Gendarmerie : Sergeant Ahryn Tohmys
+    Sergeant-at-Arms of the Siddar Gendarmerie : Sergeant-at-Arms Ahryn Tohmys
     Deacon of Siddar City : Deacon Ansahl Crowle
     Chancellor of Parliament : MEP Kaaryl Praigyr
-    Admiral of the Navy : Admiral Yairdahn Suwyl (Replacing Commander REF)
+    Quartermaster General : Major General Edmynd Magwair
+    Auditor General : Major General Arahkah Rowzvel
+    Director of Army Intelligence : Brigadier Larys Bairystyr
+    Commander of the Expedition : Brigadier Greghor Stonhyr (Suspended)
+    Admiral of the Navy : Admiral Yairdahn Suwyl
+    Commandant of the Merchant Marine : Rear Admiral Scahrlyt Alban
 #  Associations :
 #    NAME : >-
 #      TEXT
+  Diagrams :
+    Governance : |
+      ```mermaid
+      graph TD;
+        classDef BlkD fill:#DDD,stroke:#888,stroke-width:2px;
+        subgraph HC1[High Court of Inquiry]
+          lp[Lord Protector]:::BlkD
+          hc{{High Court of Inquiry}}:::BlkD
+          js[Justices]:::BlkD
+          pm[Provost Marshal]:::BlkD
+          pg[Procurator General]:::BlkD
+          pr(Provosts):::BlkD
+          def[Defendant]:::BlkD
+          
+          lp-- Assigns -->js;
+          lp-- Appoints -->pm;
+          pm-- Administrates -->hc;
+          pm-- Directs -->pr;
+          pm-- Oversees -->pg;
+          pg-- Prosecutes -->def;
+          pr-- Arrest -->def;
+          js-- Judge -->def;
+          js-- Preside Over -->hc;
+        end
+
+        style HC1 fill:#AAA,stroke:#111,stroke-width:2px
+        
+      ```
 Culture :
   Description : >-
     TEXT
