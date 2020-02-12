@@ -53,6 +53,104 @@ Society :
       passed however, the distinction between military and civil service
       blurred and disappeared. Today the Army serves as both the military
       and administrative arms of the Republic.
+  Diagrams:
+    Government: |
+      ```mermaid
+      graph TD;
+        subgraph CLR0[Judiciary]
+          highCourt{{High Court of Inquiry}}
+          criminal{{Criminal Courts}}
+          civil{{Civil Courts}}
+          justices[Justices]
+          judges[Military Judges]
+          provostM[/Provost Marshal\]
+          procuratorG[Procurator General]
+          provosts(Provosts)
+          procurators(Procurators)
+        end
+
+        subgraph CLR1[Parliament]
+          parliament{{Parliament}}
+          chancellor[/Chancellor of Parliament\]
+          mep(Member Electors of Parliament)
+          mrp(Member Representative of Parliament)
+        end
+
+        subgraph CLR2[Siddar City]
+          gendarmerie{{Gendarmerie of Siddar City}}
+          sasc[/Sergeant-at-Arms of the Siddar Gendarmerie\]
+          gendarme(Gendarme of Siddar City)
+          fire>Fire Service]
+          watch>City Watch]
+          admin>Siddar City Civil Service]
+        end
+
+        subgraph CLR3[The Republic of Siddarmark]
+          protector([Lord Protector])
+          citizensS[Citizens of Siddar City]
+          citizensE[Citizens of subject Settlements]
+        end
+
+        subgraph CLR4[The Army of the Republic]
+          fieldA{{Field Army}}
+          ref{{Expedition}}
+          navy{{Navy}}
+          merchantM{{Merchant Marine}}
+          civilA{{Army Civil Service}}
+          fieldM[/Field Marshal\]
+          commanderE[/Commander of the Expedition\]
+          admiralN[/Admiral of the Navy\]
+          commandantM[/Commandant of the Merchant Marine\]
+          quartermasterG[Quartermaster General]
+          auditorG[Auditor General]
+          directorI[Director of Army Intelligence]
+          parliamentL[Parliamentary Liason]
+
+          merchantM(Merchant Marine)
+          navalW>Naval Warfare]
+          navalC>Naval Commerce & Defence]
+
+          landW>Land Warfare]
+          extraNW>Extra-national Policing]
+
+          fin>Government Finances]
+          log>Government Logistics]
+          esp>Espionage]
+        end
+
+
+        protector --> highCourt --> justices
+        protector --> provostM --> procuratorG & provosts
+        protector --> judges --> criminal & civil
+        procuratorG --> procurators
+        provosts & procurators --> criminal & civil
+
+        protector --> |Directs| parliament --> chancellor --> mep & mrp
+        citizensS --> |Elect| mep
+        citizensE --> |Elect| mrp
+        mep -.-> |Patronize| citizensS
+        mrp -.-> |Represent| citizensE
+        parliament -.-> |Elects| protector
+
+        protector --> gendarmerie --> sasc --> gendarme --> fire & watch & admin
+
+        protector --> fieldM --> fieldA & ref & navy & civilA
+        navy --> admiralN & merchantM & navalW
+        merchantM --> commandantM & navalC
+        civilA --> quartermasterG & auditorG & directorI & parliamentL
+        quartermasterG --> log
+        auditorG --> fin
+        directorI --> esp
+        fieldA --> landW
+        ref --> commanderE & extraNW
+        
+        
+
+        style CLR0 fill:#FFF,stroke:#BBB,stroke-width:2px
+        style CLR1 fill:#FFF,stroke:#BBB,stroke-width:2px
+        style CLR2 fill:#FFF,stroke:#BBB,stroke-width:2px
+        style CLR3 fill:#FFF,stroke:#BBB,stroke-width:2px
+      ```
 Culture :
   Description : >-
     Cultural development has largely stagnated since the Great Sack.
