@@ -57,7 +57,49 @@ Society :
     Government: |
       ```mermaid
       graph TD;
-        subgraph CLR0[Judiciary]
+        subgraph CLR[The Republic of Siddarmark]
+          protector([Lord Protector])
+          citizensS[Citizens of Siddar City]
+          citizensE[Citizens of subject Settlements]
+        end
+        
+        style CLR fill:#FFF,stroke:#BBB,stroke-width:2px
+      ```
+      General Organization
+
+
+
+      ```mermaid
+      graph TD;
+        protector([Lord Protector])
+        citizensS[Citizens of Siddar City]
+        citizensE[Citizens of subject Settlements]
+
+        subgraph CLR[Legislature]
+          parliament{{Parliament}}
+          chancellor[/Chancellor of Parliament\]
+          mep(Member Electors of Parliament)
+          mrp(Member Representative of Parliament)
+        end
+
+        protector --> |Directs| parliament --> chancellor --> mep & mrp
+        citizensS --> |Elect| mep
+        citizensE --> |Elect| mrp
+        mep -.-> |Patronize| citizensS
+        mrp -.-> |Represent| citizensE
+        parliament -.-> |Elects| protector
+
+        style CLR fill:#FFF,stroke:#BBB,stroke-width:2px
+      ```
+      Legislative Organization
+
+
+
+      ```mermaid
+      graph TD;
+        protector([Lord Protector])
+
+        subgraph CLR[Judiciary]
           highCourt{{High Court of Inquiry}}
           criminal{{Criminal Courts}}
           civil{{Civil Courts}}
@@ -69,14 +111,23 @@ Society :
           procurators(Procurators)
         end
 
-        subgraph CLR1[Parliament]
-          parliament{{Parliament}}
-          chancellor[/Chancellor of Parliament\]
-          mep(Member Electors of Parliament)
-          mrp(Member Representative of Parliament)
-        end
+        protector --> highCourt --> justices
+        protector --> provostM --> procuratorG & provosts
+        protector --> judges --> criminal & civil
+        procuratorG --> procurators
+        provosts & procurators --> criminal & civil
 
-        subgraph CLR2[Siddar City]
+        style CLR fill:#FFF,stroke:#BBB,stroke-width:2px
+      ```
+      Judiciary Organization
+
+
+      
+      ```mermaid
+      graph TD;
+        protector([Lord Protector])
+
+        subgraph CLR[Siddar City]
           gendarmerie{{Gendarmerie of Siddar City}}
           sasc[/Sergeant-at-Arms of the Siddar Gendarmerie\]
           gendarme(Gendarme of Siddar City)
@@ -85,72 +136,94 @@ Society :
           admin>Siddar City Civil Service]
         end
 
-        subgraph CLR3[The Republic of Siddarmark]
-          protector([Lord Protector])
-          citizensS[Citizens of Siddar City]
-          citizensE[Citizens of subject Settlements]
-        end
+        protector --> sasc --> gendarmerie  --> gendarme --> fire & watch & admin
 
-        subgraph CLR4[The Army of the Republic]
+        style CLR fill:#FFF,stroke:#BBB,stroke-width:2px
+      ```
+      Siddar City Government
+
+
+      
+      ```mermaid
+      graph TD;
+        protector([Lord Protector])
+
+        subgraph CLR[The Army of the Republic]
           fieldA{{Field Army}}
           ref{{Expedition}}
           navy{{Navy}}
-          merchantM{{Merchant Marine}}
           civilA{{Army Civil Service}}
           fieldM[/Field Marshal\]
+        end
+
+        protector --> fieldM --> fieldA & ref & navy & civilA
+        
+        style CLR fill:#FFF,stroke:#BBB,stroke-width:2px
+      ```
+
+      
+      ```mermaid
+      graph TD;
+        subgraph CLR[Field Army]
+          fieldA2{{Field Army}}
+          fieldM2[/Field Marshal\]
           commanderE[/Commander of the Expedition\]
+          ref2{{Expedition}}
+          
+          landW>Land Warfare]
+          extraNW>Extra-national Policing]
+        end
+        
+        fieldM2 --> fieldA2 --> landW
+        fieldM2 --> commanderE
+        commanderE --> ref2 --> extraNW
+        
+        style CLR fill:#FFF,stroke:#BBB,stroke-width:2px
+      ```
+
+      
+      ```mermaid
+      graph TD;
+        subgraph CLR[Navy]
+          navy2{{Navy}}
           admiralN[/Admiral of the Navy\]
           commandantM[/Commandant of the Merchant Marine\]
-          quartermasterG[Quartermaster General]
-          auditorG[Auditor General]
-          directorI[Director of Army Intelligence]
-          parliamentL[Parliamentary Liason]
 
           merchantM(Merchant Marine)
           navalW>Naval Warfare]
           navalC>Naval Commerce & Defence]
+        end
 
-          landW>Land Warfare]
-          extraNW>Extra-national Policing]
+        admiralN --> navy2 --> commandantM & navalW
+        commandantM --> merchantM -->  navalC
+        
+        style CLR fill:#FFF,stroke:#BBB,stroke-width:2px
+      ```
 
+
+      ```mermaid
+      graph TD;
+        subgraph CLR[Army Civil Service]
+          fieldM[/Field Marshal\]
+          civilA2{{Army Civil Service}}
+          quartermasterG[Quartermaster General]
+          auditorG[Auditor General]
+          directorI[Director of Army Intelligence]
+          parliamentL[Parliamentary Liason]
+          
           fin>Government Finances]
           log>Government Logistics]
           esp>Espionage]
         end
 
-
-        protector --> highCourt --> justices
-        protector --> provostM --> procuratorG & provosts
-        protector --> judges --> criminal & civil
-        procuratorG --> procurators
-        provosts & procurators --> criminal & civil
-
-        protector --> |Directs| parliament --> chancellor --> mep & mrp
-        citizensS --> |Elect| mep
-        citizensE --> |Elect| mrp
-        mep -.-> |Patronize| citizensS
-        mrp -.-> |Represent| citizensE
-        parliament -.-> |Elects| protector
-
-        protector --> gendarmerie --> sasc --> gendarme --> fire & watch & admin
-
-        protector --> fieldM --> fieldA & ref & navy & civilA
-        navy --> admiralN & merchantM & navalW
-        merchantM --> commandantM & navalC
-        civilA --> quartermasterG & auditorG & directorI & parliamentL
+        fieldM --> civilA2 --> quartermasterG & auditorG & directorI & parliamentL
         quartermasterG --> log
         auditorG --> fin
         directorI --> esp
-        fieldA --> landW
-        ref --> commanderE & extraNW
         
-        
-
-        style CLR0 fill:#FFF,stroke:#BBB,stroke-width:2px
-        style CLR1 fill:#FFF,stroke:#BBB,stroke-width:2px
-        style CLR2 fill:#FFF,stroke:#BBB,stroke-width:2px
-        style CLR3 fill:#FFF,stroke:#BBB,stroke-width:2px
+        style CLR fill:#FFF,stroke:#BBB,stroke-width:2px
       ```
+      Army of the Republic Organization
 Culture :
   Description : >-
     Cultural development has largely stagnated since the Great Sack.
