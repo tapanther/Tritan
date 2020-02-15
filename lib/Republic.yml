@@ -117,6 +117,8 @@ Society :
         procuratorG --> procurators
         provosts & procurators --> criminal & civil
 
+        click highCourt "@High Court of Inquiry@"
+        
         style CLR fill:#FFF,stroke:#BBB,stroke-width:2px
       ```
       Judiciary Organization
