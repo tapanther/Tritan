@@ -1,0 +1,35 @@
+---
+node : NPC/Republic
+template : Character.md
+title : Ahrys Tohmys
+GeneralInfo :
+  Statistics :
+    Race : Human
+    Age : 51
+    Gender : Female
+  Traits :
+    - Logical
+    - Efficient
+    - Honest
+#  Description : >-
+#    TEXT
+Occupation :
+  Role : Sergeant-at-Arms of the Siddar Gendarmerie
+  Note : Appointed 562 AGS
+  Location : Gendarmerie Headquarters, Siddar City, Republic of Siddarmark
+Description : >-
+  Formerly the Gendarmerie Fire Captain, Ahrys Tohmys was appointed to
+  the position of Sergeant-at-Arms of the Siddar Gendarmerie by Lord
+  Protector Lyhl Habborlyn upon his election. She replaced Habborlyn
+  as the head of the Siddar City government, and has been generally
+  positively received by the city populace as a fair and honest
+  administrator.
+
+
+  Born to a minor merchant house, Ahrys graduated from the Army
+  academy in 542 AGS and joined the Gendarmerie Fire Watch. She
+  received distinguished service commendations in 549 and 553,
+  eventually becoming Fire Captain in 557 AGS.
+#NotableEvents :
+#  TEXT : >-
+#    TEXT
