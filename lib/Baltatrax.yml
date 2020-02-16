@@ -2,7 +2,8 @@
 node : NPC
 template : Character.md
 title : Baltatrax the Ravager
-altLink : Baltatrax
+altLinks :
+  - Baltatrax
 GeneralInfo :
   Statistics :
     Race : Demogorgon

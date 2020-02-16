@@ -3,6 +3,8 @@ node : Locations/First Age Ruins
 template : Location.md
 title : Broken Gate
 altTitle : World's Gate
+altLinks :
+  - The Gate
 GeneralInfo :
   Statistics :
     Type : City Ruins

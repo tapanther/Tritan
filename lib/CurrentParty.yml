@@ -73,44 +73,18 @@ Content:
 
           Alignment: ?
   -
-    Title: Uþer
+    Title: Brigadier Greghor Stonhyr
     Text: |
       !!! info "Quick Reference"
-          Character Sheet: Uþer
-          
-          Gender: Neuter
-          
-          Race: Doppelganger
-          
-          Class: N/A
-          
-          Alignment: Neutral
-  -
-    Title: Arthyr Borthwell
-    Text: |
-      !!! info "Quick Reference"
-          Character Sheet: Arthyr Borthwell
-          
+          Character Sheet: Greghor Stronhyr
+
           Gender: Male
-          
-          Race: Human
-          
-          Class: N/A
-          
-          Alignment: Neutral Good
-  -
-    Title: Leighya Enryht
-    Text: |
-      !!! info "Quick Reference"
-          Character Sheet: Leighya Enryht
 
-          Gender: Female
+          Race: Tiefling
 
-          Race: Human
+          Class: Unknown
 
-          Class: N/A
-
-          Alignment: Neutral Good
+          Alignment: Lawful-Unknown
 Refs:
   Durgu: https://www.dndbeyond.com/profile/Caruban/characters/6186767
   Nykolai: https://www.dndbeyond.com/profile/ciq666/characters/6187211

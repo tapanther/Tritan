@@ -64,8 +64,15 @@ nav:
       - Leadenport : Leadenport.md
       - Terraworth : Terraworth.md
   - Major Powers :
-    - Kingdom of Dohlar : Dohlar.md
-    - Republic of Siddarmark : Republic.md
+    - Kingdom of Dohlar :
+      - Kingdom of Dohlar : Dohlar.md
+    - Republic of Siddarmark :
+      - Republic of Siddarmark : Republic.md
+      - Government :
+        - Gendarmerie of Siddar City : GendarmerieSiddar.md
+        - High Court of Inquiry : HighCourtOfInquiry.md
+        - Lord Protector of the Republic : LordProtector.md
+        - Republic Expeditionary Forces : REF.md
   - NPC :
     - Azoth the Wise : Azoth.md
     - Baltatrax the Ravager : Baltatrax.md
@@ -87,8 +94,6 @@ nav:
     - Mother Church (Religion) : MotherChurch.md
     - Republic :
       - Gahrdynyr Trade House : GahrdynyrTradeHouse.md
-      - High Court of Inquiry : HighCourtOfInquiry.md
-      - Republic Expeditionary Forces : REF.md
     - Villains :
       - Eternal Flame Cult : EternalFlameCult.md
   - Settlements :

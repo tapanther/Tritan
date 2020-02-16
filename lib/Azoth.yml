@@ -2,7 +2,8 @@
 node : NPC
 template : Character.md
 title : Azoth the Wise
-altLink: Azoth
+altLinks :
+  - Azoth
 GeneralInfo :
   Statistics :
     Race : Unknown

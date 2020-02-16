@@ -1,8 +1,9 @@
 ---
-node : Major Powers
+node : Major Powers/Republic of Siddarmark
 template : Nation.md
 title : Republic of Siddarmark
-altLink : Republic
+altLinks :
+  - Republic
 GeneralInfo :
   Statistics :
     Population : 1250000
@@ -63,6 +64,8 @@ Society :
           citizensE[Citizens of subject Settlements]
         end
         
+        click protector "@Lord Protector@"
+
         style CLR fill:#FFF,stroke:#BBB,stroke-width:2px
       ```
       General Organization
@@ -88,6 +91,8 @@ Society :
         mep -.-> |Patronize| citizensS
         mrp -.-> |Represent| citizensE
         parliament -.-> |Elects| protector
+
+        click protector "@Lord Protector@"
 
         style CLR fill:#FFF,stroke:#BBB,stroke-width:2px
       ```
@@ -117,6 +122,7 @@ Society :
         procuratorG --> procurators
         provosts & procurators --> criminal & civil
 
+        click protector "@Lord Protector@"
         click highCourt "@High Court of Inquiry@"
         
         style CLR fill:#FFF,stroke:#BBB,stroke-width:2px
@@ -140,6 +146,8 @@ Society :
 
         protector --> sasc --> gendarmerie  --> gendarme --> fire & watch & admin
 
+        click protector "@Lord Protector@"
+
         style CLR fill:#FFF,stroke:#BBB,stroke-width:2px
       ```
       Siddar City Government
@@ -160,6 +168,9 @@ Society :
 
         protector --> fieldM --> fieldA & ref & navy & civilA
         
+        click protector "@Lord Protector@"
+        click ref "@REF@"
+
         style CLR fill:#FFF,stroke:#BBB,stroke-width:2px
       ```
 
@@ -180,6 +191,8 @@ Society :
         fieldM2 --> commanderE
         commanderE --> ref2 --> extraNW
         
+        click ref2 "@REF@"
+
         style CLR fill:#FFF,stroke:#BBB,stroke-width:2px
       ```
 

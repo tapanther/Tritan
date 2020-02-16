@@ -13,11 +13,11 @@ GeneralInfo :
 Occupation :
   Role : Commander of the Expedition
   Note : Comissioned 561 AGS
-  Location : REF Encampment, Ravenhelm Region
+  Location : Siddar City, Republic of Siddarmark
 Description : >-
   Colloquially known as the *Shield of the Republic*, Greghor Stonhyr is
   widely credited for the current period of peace and stability within the
-  Republic. Commander Stonhyr currently leads the REF, the branch of the
+  Republic. Brigadier Stonhyr currently leads the REF, the branch of the
   Republic military tasked with maintaining order and security outside the
   official borders.
 
@@ -51,5 +51,13 @@ Description : >-
   allow someone of monstrous heritage to hold such a distinguished position,
   Stonhyr's heritage makes him a symbol of the Republic's ideals - that
   good and evil are a choice; and that greatness is earned, not inherited.
+NotableEvents :
+  Ambush Outside Cantfall : >-
+    In early 570Y, Stonhyr's REF forces were conducting an evacuation of the
+    gnoll-attack survivors of Cantfall. During the evacuation, the detachment was
+    ambushed by the gnoll war band. The combined group makes a hasty retreat to a
+    nearby abandoned fort, where the REF repels dozens of gnoll attacks. Although the
+    gnolls are eventually routed, the repeated attacks leave all but seventy of the
+    REF soldiers dead.
 Links:
   - Stonhyr's Speech At Noxwall

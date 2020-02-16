@@ -1,8 +1,10 @@
 ---
-node : Organization/Republic
+node : Major Powers/Republic of Siddarmark/Government
 template : Organization.md
 title : Republic Expeditionary Forces
-altLink : REF
+altLinks :
+  - REF
+  - Expedition
 GeneralInfo :
   Statistics :
     Type : Military Regiment

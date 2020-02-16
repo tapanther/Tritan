@@ -26,21 +26,27 @@ Structure :
 #      TEXT
   Locations :
     Abandoned Mine near Noxwall : >-
-      The Eternal Flame Cult and their gnoll allies had set up a
-      demonic ritual deep within an abandoned mine to the Southwest
-      of the town of Noxwall. This site was destroyed by Republic-allied
-      forces in 570Y 3M.
+      The Eternal Flame Cult and their gnoll allies had set up a demonic ritual deep
+      within an abandoned mine to the Southwest of the town of Noxwall. This site was
+      destroyed by Republic-allied forces in 570Y 3M.
     Terraworth : >-
-      Led by a heretical prelate from Blackpoint by the name of Pleas Morgan,
-      the Cult established a strong presence within the ruins of Terraworth,
-      taking over many of the ruins in the Imperial District in 570Y.
+      Led by a heretical prelate from Blackpoint by the name of Pleas Morgan, the
+      Cult established a strong presence within the ruins of Terraworth, taking over
+      many of the ruins in the Imperial District in 570Y. The Flame Cult has since
+      abandoned Terraworth.
   Members :
     Pleas Morgan : >-
-      A disgraced, heretical prelate from Blackpoint, Pleas Morgan was
-      tried and convicted by the Ecclesiastic Court, and subsequently
-      incarcerated in the Kilmainham Gaol, Blackpoint's crown prison.
-      He was subsequently freed by the Cult through unknown means and
-      escaped to the ruins of Terraworth.
+      A disgraced, heretical prelate from Blackpoint, Pleas Morgan was tried and
+      convicted by the Ecclesiastic Court, and subsequently incarcerated in the
+      Kilmainham Gaol, Blackpoint's crown prison.  He was subsequently freed by the
+      Cult through unknown means and escaped to the ruins of Terraworth.
+    Krutoq Elandorr : >-
+      A First Age figure, Elandorr was a former City Councillor for Terraworth. He
+      ascended to lichhood hundreds of years prior to the Great Sack, only to be
+      defeated by the Imperial Army at the time. For unknown reasons, the Lich did
+      not resurrect at his phylactery, but was instead somehow trapepd within the
+      Imperial Vault under the city until liberated by the Eternal Flame cult under
+      Pleas Morgan in 570Y.
 #  Associations :
 #    NAME : >-
 #      TEXT
@@ -64,4 +70,6 @@ History :
       Name : Eternal Flame Cult Presence in Terraworth
       Date : 570Y
       Description : >-
-        The Eternal Flame Cult takes over many of the ruins of Terraworth's Imperial District.
+        The Eternal Flame Cult takes over many of the ruins of Terraworth's Imperial
+        District. They manage to resurrect Krutoq, a First Age lich, before
+        abandoning the city ruins altogether.

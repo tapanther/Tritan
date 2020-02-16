@@ -1,0 +1,99 @@
+---
+node : Major Powers/Republic of Siddarmark/Government
+template : Organization.md
+title : Gendarmerie of Siddar City
+altLinks :
+  - Siddar Gendarmerie
+GeneralInfo :
+  Statistics :
+    Type : City Government
+    Membership : 2,500
+    Allegiance : Republic of Siddarmark
+  Description : >-
+    The Gendarmerie of Siddar City is the official body under the Lord Protector
+    that is responsible for the governance of Siddar City, as opposed to the
+    Army of the Republic which governs the nation as a whole.
+
+
+    The Gendarmerie is led by the Sergeant-at-Arms, who reports directly to the Lord
+    Protector, rather than to the general staff of the Army as is traditional for
+    other settlements. Inasmuch as the Republic is driven by Siddar City, the
+    division of the national and city governments by Urwyn Ludovyc is considered
+    to have been a stroke of forward-thinking ingenuity, as it has allowed the common
+    good of the Republic to prevail over purely local interests.
+
+
+    The Gendarmerie is internally divided into multiple divisions, each responsible
+    for a particular aspect of the various services provided by the city government.
+    All citizens of Siddar City are expected to serve in either the Army or the
+    Gendarmerie, if only temporarily, which provides a steady stream of applicants
+    from which the talented and qualified are selected for well-paid and respected
+    positions. High ranking positions are filled largely through merit, and the
+    Gendarmerie is considered a model of good governance that has been copied by many
+    subject settlements.
+  Diagram : |
+    ```mermaid
+    graph TD;
+        protector([Lord Protector])
+
+        subgraph CLR[Siddar City]
+          gendarmerie{{Gendarmerie of Siddar City}}
+          sasc[/Sergeant-at-Arms of the Siddar Gendarmerie\]
+          fireC[/Fire Captain\]
+          watchC[/Watch Captain\]
+          cityA[/City Administrator\]
+          fire>Fire Service]
+          watch>City Watch]
+          admin>Siddar City Civil Service]
+        end
+
+        protector --> sasc --> gendarmerie --> fireC & watchC & cityA
+        fireC --> fire
+        watchC --> watch
+        cityA --> admin
+
+        click protector "@Lord Protector@"
+
+        style CLR fill:#FFF,stroke:#BBB,stroke-width:2px
+    ```
+Structure :
+#  Governance : >-
+#      TEXT
+  Locations :
+    Gendarmerie Headquarters : >-
+      Located adjacent to the Lord Protector's Palace, the Gendarmerie Headquarters
+      houses the entirety of the city's bureaucracy. Dedicated stationhouses within
+      each district serve the public directly, but all under the direction of the
+      administrators within the city center.
+  Members :
+    Sergeant-at-Arms Ahryn Tohmys : >-
+      The current S.A., Ahryn Tohmys was appointed by Lyhl Habborlyn upon his
+      election, and has earned a reputation as an efficient and progressive
+      administrator for the city.
+#  Associations :
+#    NAME : >-
+#      TEXT
+#  Diagrams :
+#    NAME : |
+#      ```
+#      ```
+#Culture :
+#  Description : >-
+#    TEXT
+#  Values :
+#    - >-
+#      TEXT
+#  Traditions :
+#    NAME : >-
+#      TEXT
+History :
+#  Description : >-
+#    TEXT
+  Timeline :
+    -
+      Name : Siddar Gendarmerie Founded
+      Date : 11Y 1M KAL
+      Description : >-
+        In an effort to streamline the administration of the city, Urwyn Ludovyc
+        splits the city's civic services from the army, founding the Gendarmerie
+        of Siddar City.

@@ -2,7 +2,8 @@
 node : Locations/First Age Ruins
 template : Location.md
 title : Leadenport
-altLink : Auramport
+altLinks :
+  - Auramport
 GeneralInfo :
   Statistics :
     Type : City Ruins
