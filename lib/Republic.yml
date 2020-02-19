@@ -64,7 +64,7 @@ Society :
           citizensE[Citizens of subject Settlements]
         end
         
-        click protector "@Lord Protector@"
+        click protector "Lord Protector"
 
         style CLR fill:#FFF,stroke:#BBB,stroke-width:2px
       ```
@@ -92,7 +92,7 @@ Society :
         mrp -.-> |Represent| citizensE
         parliament -.-> |Elects| protector
 
-        click protector "@Lord Protector@"
+        click protector "Lord Protector"
 
         style CLR fill:#FFF,stroke:#BBB,stroke-width:2px
       ```
@@ -122,8 +122,8 @@ Society :
         procuratorG --> procurators
         provosts & procurators --> criminal & civil
 
-        click protector "@Lord Protector@"
-        click highCourt "@High Court Of Inquiry@"
+        click protector "Lord Protector"
+        click highCourt "High Court of Inquiry"
         
         style CLR fill:#FFF,stroke:#BBB,stroke-width:2px
       ```
@@ -146,7 +146,8 @@ Society :
 
         protector --> sasc --> gendarmerie  --> gendarme --> fire & watch & admin
 
-        click protector "@Lord Protector@"
+        click protector "Lord Protector"
+        click sasc "Sergeant-at-Arms"
 
         style CLR fill:#FFF,stroke:#BBB,stroke-width:2px
       ```
@@ -168,8 +169,8 @@ Society :
 
         protector --> fieldM --> fieldA & ref & navy & civilA
         
-        click protector "@Lord Protector@"
-        click ref "@REF@"
+        click protector "Lord Protector"
+        click ref "REF"
 
         style CLR fill:#FFF,stroke:#BBB,stroke-width:2px
       ```
@@ -191,7 +192,7 @@ Society :
         fieldM2 --> commanderE
         commanderE --> ref2 --> extraNW
         
-        click ref2 "@REF@"
+        click ref2 "REF"
 
         style CLR fill:#FFF,stroke:#BBB,stroke-width:2px
       ```

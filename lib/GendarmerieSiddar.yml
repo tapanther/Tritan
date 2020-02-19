@@ -52,7 +52,7 @@ GeneralInfo :
         watchC --> watch
         cityA --> admin
 
-        click protector "@Lord Protector@"
+        click protector "Lord Protector"
 
         style CLR fill:#FFF,stroke:#BBB,stroke-width:2px
     ```
