@@ -1126,6 +1126,18 @@
 
 
   <li class="md-nav__item">
+    <a href="../AhrynTohmys/" title="Ahrys Tohmys" class="md-nav__link">
+      Ahrys Tohmys
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
     <a href="../ArthyrBorthwell/" title="Arthyr Borthwell" class="md-nav__link">
       Arthyr Borthwell
     </a>
@@ -1779,7 +1791,7 @@
     citizensE[Citizens of subject Settlements]
   end
 
-  click protector "@Lord Protector@"
+  click protector "../LordProtector/"
 
   style CLR fill:#FFF,stroke:#BBB,stroke-width:2px</div>
 General Organization</p>
@@ -1802,7 +1814,7 @@ General Organization</p>
   mrp -.-&gt; |Represent| citizensE
   parliament -.-&gt; |Elects| protector
 
-  click protector "@Lord Protector@"
+  click protector "../LordProtector/"
 
   style CLR fill:#FFF,stroke:#BBB,stroke-width:2px</div>
 Legislative Organization</p>
@@ -1827,8 +1839,8 @@ Legislative Organization</p>
   procuratorG --&gt; procurators
   provosts &amp; procurators --&gt; criminal &amp; civil
 
-  click protector "@Lord Protector@"
-  click highCourt "@High Court Of Inquiry@"
+  click protector "../LordProtector/"
+  click highCourt "../HighCourtOfInquiry/"
 
   style CLR fill:#FFF,stroke:#BBB,stroke-width:2px</div>
 Judiciary Organization</p>
@@ -1846,7 +1858,8 @@ Judiciary Organization</p>
 
   protector --&gt; sasc --&gt; gendarmerie  --&gt; gendarme --&gt; fire &amp; watch &amp; admin
 
-  click protector "@Lord Protector@"
+  click protector "../LordProtector/"
+  click sasc "Sergeant-at-Arms"
 
   style CLR fill:#FFF,stroke:#BBB,stroke-width:2px</div>
 Siddar City Government</p>
@@ -1863,8 +1876,8 @@ Siddar City Government</p>
 
   protector --&gt; fieldM --&gt; fieldA &amp; ref &amp; navy &amp; civilA
 
-  click protector "@Lord Protector@"
-  click ref "@REF@"
+  click protector "../LordProtector/"
+  click ref "../REF/"
 
   style CLR fill:#FFF,stroke:#BBB,stroke-width:2px</div>
 
@@ -1883,7 +1896,7 @@ Siddar City Government</p>
   fieldM2 --&gt; commanderE
   commanderE --&gt; ref2 --&gt; extraNW
 
-  click ref2 "@REF@"
+  click ref2 "../REF/"
 
   style CLR fill:#FFF,stroke:#BBB,stroke-width:2px</div>
 
