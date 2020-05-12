@@ -7,8 +7,8 @@ theme:
     primary: blue
     accent: blue
   favicon: 'img/favicon.ico'
-  logo:
-    icon: 'account_balance'
+  icon:
+    logo: 'material/bank'
 repo_name: 'tapanther/Tritan'
 repo_url: 'https://github.com/tapanther/Tritan'
 site_url: 'https://tapanther.github.io/Tritan/'
