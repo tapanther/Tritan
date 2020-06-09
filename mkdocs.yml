@@ -13,6 +13,9 @@ repo_name: 'tapanther/Tritan'
 repo_url: 'https://github.com/tapanther/Tritan'
 site_url: 'https://tapanther.github.io/Tritan/'
 
+extra:
+    disqus: 'tritan'
+
   
 extra_css:
   - stylesheets_lib/uml.css
