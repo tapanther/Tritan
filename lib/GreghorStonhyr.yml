@@ -11,15 +11,22 @@ GeneralInfo :
     - Formal
     - Conscientious
 Occupation :
-  Role : Commander of the Expedition
-  Note : Comissioned 561 AGS
+  Role : Lord Protector of the Republic of Siddarmark
+  Note : 25th in Succession, Elected 570 AGS
   Location : Siddar City, Republic of Siddarmark
+FormerOccupations :
+    -
+      Role: Commander of the Expedition
+      Note: Comissioned 561 AGS
+      Location: Siddar City, Republic of Siddarmark
+    -
+      Role: Colonel, Southguard Rapid Response Regiment, REF
+      Note: Comissioned 555 AGS
+      Location: Riventon, Republic of Siddarmark
 Description : >-
   Colloquially known as the *Shield of the Republic*, Greghor Stonhyr is
   widely credited for the current period of peace and stability within the
-  Republic. Brigadier Stonhyr currently leads the REF, the branch of the
-  Republic military tasked with maintaining order and security outside the
-  official borders.
+  Republic.
 
 
   Upon first glance, many question whether the weary, ragged man standing
@@ -46,8 +53,27 @@ Description : >-
   independently.
 
 
-  Three decades of distinguished service have made Stonhyr a household name
-  within the Republic. Though there are those who believe it is improper to
+  Three decades of distinguished service made Stonhyr a household name
+  within the Republic. Under his leadership of the REF, the Republic
+  enjoyed nearly a decade of security and stability, leading to the rapid
+  consolidation of independent settlements in the Old Province under the
+  Republic's flag.
+  
+  In 570 AGS, Stonhyr was implicated in a plot to replace the Republic's
+  leadership with simulacra while simultaneously throwing the nation to the
+  brink of civil war. Though the attempted coup d'etat by a simulacrum Stonhyr
+  was quickly supressed, it was revealed that the incumbent Lord Protector
+  during the crisis, Lyhl Habborlyn, was presumably killed and replaced with
+  a simulacrum himself.
+  
+  
+  After the results of a General Election ordered by Ahrys Tohmys, 
+  Sergeant-at-Arms of the Siddar Gendarmerie, Parliament convened
+  on 570Y 6M IDE and unanimously elected Greghor Stonhyr as the 25th
+  Lord Protector of the Republic of Siddarmark. 
+  
+  
+  Though there are those who believe it is improper to
   allow someone of monstrous heritage to hold such a distinguished position,
   Stonhyr's heritage makes him a symbol of the Republic's ideals - that
   good and evil are a choice; and that greatness is earned, not inherited.
@@ -59,5 +85,12 @@ NotableEvents :
     nearby abandoned fort, where the REF repels dozens of gnoll attacks. Although the
     gnolls are eventually routed, the repeated attacks leave all but seventy of the
     REF soldiers dead.
+  Election to Lord Protector : >-
+    Following the Parliamentary General Election of 570 AGS, Stonhyr was notified
+    of his election to the Protectorship while recuperating in an REF hospital. His
+    first act as Lord Protector was to extend the comissions of the various Sergeant-at-Arms
+    and order a full and thorough investigation into the attempted coup. The sweep and
+    subsequent trials and convictions before the High Court of Inquiry helped restore
+    faith in the Republic's government following the near burning of the city.
 Links:
   - Stonhyr's Speech At Noxwall

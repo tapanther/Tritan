@@ -63,6 +63,7 @@ nav:
   - Locations :
     - Nonewallow : Nonewallow.md
     - First Age Ruins :
+      - Ashmourne : Ashmourne.md
       - Broken Gate : Gate.md
       - Leadenport : Leadenport.md
       - Terraworth : Terraworth.md
@@ -79,12 +80,15 @@ nav:
   - NPC :
     - Azoth the Wise : Azoth.md
     - Baltatrax the Ravager : Baltatrax.md
+    - Elandorr Krutoq : ElandorrKrutoq.md
     - Faelix : Faelix.md
     - Uþer : UtherNPC.md
-    - Blackpoint :
-      - Nyhlus Verriskrit : NyhlusVerriskrit.md
     - Cult of the Eternal Flame :
+      - Nyhlus Verriskrit : NyhlusVerriskrit.md
       - Pleas Morgan : PleasMorgan.md
+    - Kingdom of Dohlar :
+      - Nell Reynfred : NellReynfred.md
+      - Yrvyn Lynch : YrvynLynch.md
     - Ravenhelm :
       - Jacques Manget : JacquesManget.md
     - Republic :

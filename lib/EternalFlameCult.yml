@@ -8,6 +8,16 @@ GeneralInfo :
     Membership : Unknown <?>
     Allegiance : Dark Elumin
   Description : >-
+    The origins of the Eternal Flame Cult lie well before any known history of
+    the world, possibly predating the First Age itself. Ruins found outside
+    Ashmourne and elsewhere in the Nonewallow share a distinctive similarity
+    with the trappings and adornments of the modern cult, though the resemblance
+    is mostly skin deep. It is believed that the original spirituality of the Cult
+    was based on the worship of Elemental Fire, possibly from a primordial civilization,
+    though little evidence remains to indicate how the cult transitioned to its
+    current state.
+    
+    
     The Eternal Flame Cult appeals to those drawn to destruction for its own
     sake. Creatures of elemental fire are most likely to take up this reckless
     philosophy; even non-intelligent fire monsters sense the reckless lust for
@@ -34,19 +44,30 @@ Structure :
       Cult established a strong presence within the ruins of Terraworth, taking over
       many of the ruins in the Imperial District in 570Y. The Flame Cult has since
       abandoned Terraworth.
+    Thakarenth : >-
+      Buried underground on the outskirts of Ashmourne lay the remarkably preserved
+      ruins of Thakarenth, City of a Thousand Flames. The region is notable for two
+      unfortunate notable features: an infestation of wraiths and spirits, and being
+      located directly beneath the detonation point of The Weapon. It is believed that
+      the spent alchemical egg that empowered The Weapon to level Ashmourne still lies
+      buried deep within Thakarenth.
   Members :
     Pleas Morgan : >-
       A disgraced, heretical prelate from Blackpoint, Pleas Morgan was tried and
       convicted by the Ecclesiastic Court, and subsequently incarcerated in the
       Kilmainham Gaol, Blackpoint's crown prison.  He was subsequently freed by the
       Cult through unknown means and escaped to the ruins of Terraworth.
-    Krutoq Elandorr : >-
+    Elandorr Krutoq : >-
       A First Age figure, Elandorr was a former City Councillor for Terraworth. He
       ascended to lichhood hundreds of years prior to the Great Sack, only to be
       defeated by the Imperial Army at the time. For unknown reasons, the Lich did
       not resurrect at his phylactery, but was instead somehow trapepd within the
       Imperial Vault under the city until liberated by the Eternal Flame cult under
       Pleas Morgan in 570Y.
+    Tyar Besir : >-
+      The current presumed leader of the Flame Cult, Tyar Besir appears to have
+      numerous doppelgangers helping him maintain control over the Cult's activities.
+      He has been spotted, and killed, several times throughout Eastern Tritan.
 #  Associations :
 #    NAME : >-
 #      TEXT

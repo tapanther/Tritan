@@ -1,0 +1,65 @@
+---
+node : NPC
+template : Character.md
+title : Elandorr Krutoq
+GeneralInfo :
+  Statistics :
+    Race : High Elf
+    Age : Unknown
+  Traits :
+    - Calculating
+    - Patient
+    - Haughty
+  Description : >-
+    A cold and calculating former City Councillor from Terraworth, Krutoq ascended to lichhood
+    and was subsequently defeated long before the Great Sack and the fall of Terraworth. His
+    resurrection cycle was interrupted by unknown means, and his remains locked away in the
+    vaults deep beneath the city where they were spared the devasation above. In 570 AGS, the
+    Fire Cult succeeded in resurrecting the former Lich.
+    
+    
+    Unbeknownst to Krutoq, the Fire Cult was uninterested in restoring him to a position of
+    power, and instead sought to use his lichhood as a means to help resurrect Baltatrax.
+    With his powers stripped and apparent undeath reversed, Krutoq swore fealty to Lord
+    Protector Greghor Stonhyr and the Republic of Siddarmark outside of Noxwall. He was
+    subsequently granted a commission to Sergeant Provost for the Seventh District.
+History :
+  Description : >-
+    Elandorr Krutoq, former Councillor of Terraworth, was an elven wizard from around 400 BGS. 
+    As Krutoq neared the end of his life, he became obsessed with the possibility of achieving 
+    immortality. Though very little is known about that time period, it is believed that Krutoq 
+    used his position and power to ensure his activities would not be halted. Indeed, Krutoq 
+    succeeded in becoming a Lich, and attempted to convert the City's population into an undead 
+    army as payment to his fiendish patron.
+    
+    
+    For nearly 5 years, Krutoq amassed an army from his fortified tower, which he had built 
+    ostensibly for the Imperial Army before seizing it for his own nefarious purposes. Krutoq 
+    was eventually defeated by the city's forces, but his phylactery was never found. Given 
+    his high position within the city's government, Elandorr had successfully hidden his 
+    phylactery within the city's vaults, guessing correctly that it would remain undisturbed 
+    until he could regenerate.
+    
+    
+    Unfortunately for Krutoq, the vault's ancient wards prevented his resurrection, leaving 
+    him trapped on the purgatory between life and undeath. Should the phylactery be removed 
+    from the protection of the vault however, Krutoq would arise once again to a world without 
+    the Imperial might that once defeated him.
+Occupation :
+  Role : Provost Sergeant, District 7
+  Note : Appointed by Greghor Stonhyr in 570 AGS
+  Location : Siddar City, Republic of Siddarmark
+FormerOccupations :
+  -
+    Role : Lich
+    Note : Resurrected in Terraworth by the Fire Cult
+    Location : Terraworth
+  -
+    Role : City Councillor
+    Note : Circa 400 BGS
+    Location : Terraworth Free Imperial City
+#Description : >-
+#  TEXT
+#NotableEvents :
+#  TEXT : >-
+#    TEXT

@@ -2,18 +2,20 @@
 node : Settlements/Republic
 template : Nation.md
 title : Ravenhelm
+altLinks:
+  - Ravenshelm
 GeneralInfo :
   Statistics :
     Population : 35000
-    Government : Martial Law
+    Government : '[Stochocracy](https://en.wikipedia.org/wiki/Sortition)'
     Region : Old Province
   Ethics :
-    - Aristocratic
-    - Imperial
+    - Collectivist
+    - Democratic
 Society :
   Government : >-
-      Ravenhelm is currently under martial law under the occupation of the Republic
-      Expeditionary Forces, commanded by Greghor Stonhyr. The city was in the midst
+      Ravenhelm was previously under martial law under the occupation of the Republic
+      Expeditionary Forces, commanded by Allyhnk Noohnysh. The city was in the midst
       of a previous imposition of martial law by the Dusk Templars, following an
       outbreak of Mormal Marasmus and a siege by a Gnoll Warband.
 
@@ -29,10 +31,14 @@ Society :
 
 
       Since the majority of the city's nobles fled with the Dusk Templars, and the
-      subsequent annexation of the city by the Republic, it is unlikely that the
-      City Council will be restored once the epidemic is contained. It remains to
-      be seen what type of government the Republic will impose, but rumors of a
-      City Assembly have begun circulating among the surviving population.
+      subsequent annexation of the city by the Republic, the REF has transferred
+      governance of the city to a Citizen's Assembly, chosen by sortition.
+    
+    
+      While the Assembly itself currently serves at the pleasure of the Expedition
+      Commander, it enjoys modest popular support and is expected to reorganize itself
+      into a more permanent institution, complete with Gendarmerie and the accompanying
+      ranks of civil and military service it entails.
   Locations:
     Basilica of the Eclipse (Ravenhelm) : >-
       One of the most recently constructed temples, the Ravenhelm Basilica
@@ -47,6 +53,12 @@ Society :
       Watch took heavy losses during the siege and the epidemic, but there has been
       a recent surge of recruits, likely due to the collapse of the city's economy
       and the stability afforded by the Republic's backing.
+    Citizen's Assembly : >-
+      A 250-member unicameral body, the Citizen's Assembly is charged with 
+      transitioning the city to self-governance, in compliance with the laws
+      of the Republic. Due to the nobility's exodus from the city, the Assembly
+      primarily represents the merchant and laborer population, and has taken a
+      strong anti-monarchical tone.
 Culture :
   Description : >-
     Ravenhelm was once an independent settlement, founded a scant 100 years after

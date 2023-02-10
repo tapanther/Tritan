@@ -1,0 +1,41 @@
+---
+node : NPC/Kingdom of Dohlar
+template : Character.md
+title : Nell Reynfred
+altLinks :
+  - Chancellor Reynfred
+  - Blackpoint Chancellor
+GeneralInfo :
+  Statistics :
+    Race : Human
+    Age : 72
+  Traits :
+    - Loquacious
+    - Eccentric
+  Description : >-
+    A native of Ravenshelm and a member of the peerage of that city, Reynfred ascended
+    to the seat of the Chancellor of Blackpoint as part of a compromise between the
+    Dohlaran nobility and their Crown.
+    
+    
+    Though initially unpopular with the highly conservative aristocracy of Blackpoint,
+    Chancellor Reynfred proved a master diplomat, able to carefully balance the competing
+    interests of the noble houses to improve the Crown's position internally and roll back
+    several recently extended privileges of the peerage, all while avoiding a unified
+    opposition that had plagued previous administrations.
+    
+    
+    Chancellor Reynfred effectively served as regent during the Templar Crisis in 570 AGS,
+    rousing the general populace into a crude but effective resistance backing the King against
+    the attempted coup. He was the last person to see Thamior Maximillien XI, the former
+    King of Dohlar, before his untimely death. He announced the former king's last wish
+    to name Yrvyn Lynch as his heir and successor, and continues to serve as the new king's
+    chancellor.
+Occupation :
+  Role : Chancellor of Blackpoint
+  Location : Blackpoint, Kingdom of Dohlar
+#Description : >-
+#  TEXT
+#NotableEvents :
+#  TEXT : >-
+#    TEXT

@@ -1,0 +1,50 @@
+---
+node : Locations/First Age Ruins
+template : Location.md
+title : Ashmourne
+altLinks:
+  - Emberedge
+GeneralInfo :
+  Statistics :
+    Type : City Ruins
+    Region : Southgard Province
+    Population : Unknown
+  Description : >-
+    Little of the city remains above ground, save for ash-laden collapsed rubble
+    marking the former location of a particularly large or structurally sound
+    edifice. From a distance, in the calm following the Maelstrom, the rough
+    outline of the city's famous runal grid can still be seen.
+
+
+    A series of underground chambers and channels appears to have survived the
+    cataclysm, though no reliable information about the purpose or layout of
+    the tunnels has survived to the present day. It is believed that these
+    shafts once helped channel the massive amounts of arcane energies that
+    fueled the city's many magical institutions. It is believed that many
+    inhabitants of the city took refuge within the tunnels in preparation for
+    what was expected to be a lengthy siege, only to be subsequently trapped
+    underground without food nor water as the city collapsed above.
+Geography :
+  Description : >-
+    Being located within the Nonewallow, the city ruins are typically buried
+    under several feet of the never-ending ashfall that plagues the region. It
+    is only the dispersive effects of the recurring Maelstrom that have kept the
+    city from being entirely buried beneath the sulfurous dust after all these
+    centuries.
+  Features:
+    Thakarenth : >-
+      An ancient primordial city of fire and flames, Thakarenth is believed
+      to be the origin of the Eternal Flame Cult. Part of the Thakarenth ruins
+      lie directly beneath the detonation point of The Weapon.
+#  Settlements:
+#    NAME : >-
+#      TEXT
+#History :
+#  Description : >-
+#    TEXT
+#  Timeline :
+#    -
+#      Name : NAME
+#      Date : YEAR
+#      Description : >-
+#        TEXT
