@@ -8,7 +8,7 @@ altLinks :
 GeneralInfo :
   Statistics :
     Type : Military Regiment
-    Membership : 3600
+    Membership : 8600
     Allegiance : Republic of Siddarmark
   Description : >-
     The Expeditionary Forces, commonly known as the REF,
@@ -19,7 +19,7 @@ Structure :
   Governance : >-
       The REF is led by the Commander of the Expeditionary Forces,
       a position appointed directly by the Lord Protector. The
-      current Commander is Greghor Stonhyr.
+      current Commander is Allyhnk Noohnysh.
 
 
       The Commander has great discretionary power, as the REF
@@ -34,15 +34,27 @@ Structure :
       has been repurposed to house the growing army bureaucracy. The
       building is largely off-limits to non-REF personnel, though
       a small recruiting office is located on the first floor.
+    Echo Hill Hospital : >-
+      Due to the Expedition's high-risk mission and often high casualty
+      counts, Echo Hill hosts many of the Republic's foremost surgeons
+      and healers. In times of crisis, the Hospital will accept members of
+      the general public, but is typically reserved only for the Expedition's
+      soldiers. Greghor Stonhyr received news of his election while recuperating
+      at Echo Hill.
   Members :
     Greghor Stonhyr : >-
-      The current Commander of the Expedition, Greghor Stonhyr was
+      The former Commander of the Expedition, Greghor Stonhyr was
       commissioned on 561 AGS by Lyhl Habborhlyn in recognition of
       two decades of distinguished service.
     Tohazar Nammesarian : >-
-      Adjutant to the Expedition Commander, Tohazar is a Dragonborn
+      Former adjutant to the Expedition Commander, Tohazar is a Dragonborn
       of chromatic red heritage. She is a Major in the Republican
       Army.
+    Allyhnk Noohnysh : >-
+      Current Commander of the Expedition. Comissioned by Greghor Stonhyr
+      upon his election to the Protectorship. Noohnysh has demonstrated
+      shrewd political acumen by seating a Citizen's Assembly in Ravenhelm
+      to transition the city to autonomous governance.
 Culture :
   Description : >-
     Due to the extreme range and inherent nature of the REF's

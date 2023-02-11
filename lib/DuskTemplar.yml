@@ -1,0 +1,100 @@
+---
+node : Minor Powers/Cult of the Eternal Flame
+template : Organization.md
+title : Dusk Templar Order
+altLinks :
+  - Dusk Templar
+  - Templar
+GeneralInfo :
+  Statistics :
+    Type : Heraldic Military Order
+    Membership : 2250
+    Allegiance : Cult of the Eternal Flame
+  Description : >-
+    Formerly the elite soldiers of the Kingdom of Dohlar, the Fraternal Order of
+    the Dusk Templars is solely composed of (former) members of the peerage. Between
+    the Order and the private levies controlled by the noble houses of Blackpoint,
+    the Dohlaran Crown was entirely reliant on the aristocracy for military might.
+    With the defection of the Templars to the Eternal Flame Cult and the near-collapse
+    of the levy system, the treasonous knights coupled with the amassed resources of the Cult
+    pose an existential threat to their former lieges.
+  Diagram : |
+    ```mermaid
+    graph TD;
+      king([King of Dohlar])
+      fealty>Fealty]
+      fealty2>Fealty]
+    
+      subgraph CLR1[Military]
+        levies[Feudal Levies]
+        templars[Dusk Templar Order]
+      end
+    
+      subgraph CLR2[The Peerage]
+        founders[Founding Families]
+        elevated[Elevated Peers]
+        external[Noble Houses Outside Blackpoint]
+      end
+    
+      subgraph CLR3[Commoners]
+          tenants[Tenants and Farmers]
+          conscripts[Conscripted Freemen]
+          volunteers[Volunteer Freemen]
+      end
+    
+      founders --> fealty
+      elevated --> fealty
+      external --> fealty
+      fealty --> king
+    
+      tenants --> |Duties| levies
+      conscripts --> |Duties| levies
+      volunteers --> |Contract| levies
+    
+      tenants --> fealty2
+      fealty2 --> founders
+      fealty2 --> elevated
+      fealty2 --> external
+    
+      king -.-> |Commands| templars
+      templars -.-> |Control| levies
+    
+    style CLR1 fill:#FFF,stroke:#BBB,stroke-width:2px
+    style CLR2 fill:#FFF,stroke:#BBB,stroke-width:2px
+    style CLR3 fill:#FFF,stroke:#BBB,stroke-width:2px
+    ```
+    Former Organization of the Dusk Templars
+#Structure :
+#  Governance : >-
+#    TEXT
+#  Locations :
+#    NAME : >-
+#      TEXT
+#  Members :
+#    NAME : >-
+#      TEXT
+#  Associations :
+#    NAME : >-
+#      TEXT
+#  Diagrams :
+#    NAME : |
+#      ```
+#      ```
+#Culture :
+#  Description : >-
+#    TEXT
+#  Values :
+#    - >-
+#      TEXT
+#  Traditions :
+#    NAME : >-
+#      TEXT
+#History :
+#  Description : >-
+#    TEXT
+#  Timeline :
+#    -
+#      Name : NAME
+#      Date : YEAR
+#      Description : >-
+#        TEXT

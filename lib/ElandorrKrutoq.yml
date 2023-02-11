@@ -2,6 +2,9 @@
 node : NPC
 template : Character.md
 title : Elandorr Krutoq
+Image : Krutoq.png
+altLinks :
+  - Krutoq
 GeneralInfo :
   Statistics :
     Race : High Elf

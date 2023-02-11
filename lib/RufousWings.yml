@@ -1,0 +1,77 @@
+---
+node : Minor Powers
+template : Nation.md
+title : Empire of the Rufous Wings
+altTitle : Orcish Empire
+altLinks :
+  - Orc Empire
+Image : RufousWings.png
+GeneralInfo :
+  Statistics :
+    Population : Unknown
+    Government : Chiefdom
+    Region : Southgard Province
+  Ethics :
+    - Proto-Imperial
+  Description : >-
+    Unlike other known warbands, the orcs living in the Broken Gate appear to be
+    a form of confederation of multiple tribes united under a hereditary ruler.
+    The true name of the tribe is unknown, as little contact has been established
+    with these orcs, but as they appear to have adopted the bird-of-prey and
+    vermillion backdrop of the Empire as a standard, the moniker has stuck with
+    contemporary scholars.
+    
+    
+    Though the exact history surrounding the formation of the alliance of tribes,
+    it is reasonable to assume that the unification of the monstrous races under
+    Baltatrax may have served as the catalyst.
+#  Diagram : |
+#    ```
+#    ```
+#Society :
+#  Government : >-
+#    TEXT
+#  Locations:
+#    NAME : >-
+#      TEXT
+#  Organizations:
+#    NAME : >-
+#      TEXT
+#  Diagrams :
+#    NAME : |
+#      ```
+#      ```
+#Culture :
+#  Description : >-
+#    TEXT
+#  CoreBeliefs :
+#    - LIST
+#  Prejudices :
+#    - LIST
+#  Minorities :
+#    - LIST
+#  Values :
+#    - >-
+#      TEXT
+#  Heroes :
+#    NAME : >-
+#      TEXT
+#  Villains :
+#    NAME : >-
+#      TEXT
+#  Traditions :
+#    NAME : >-
+#      TEXT
+#  Religion : >-
+#    TEXT
+History :
+#  Description : >-
+#    TEXT
+  Timeline :
+    -
+      Name : Vidarok the Red Dies
+      Date : 570Y 7M 19KAL
+      Description : >-
+        Vidarok, the leader of the Rufous Wings Orcs, dies unexpectedly. His
+        last act directs blame at Cyton, the Green Dragon that inhabits the
+        Northeastern portion of the city.

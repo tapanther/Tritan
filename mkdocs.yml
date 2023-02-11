@@ -16,32 +16,19 @@ site_url: 'https://tapanther.github.io/Tritan/'
 extra:
     disqus: 'tritan'
 
-  
-extra_css:
-  - stylesheets_lib/uml.css
-  
-extra_javascript:
-  - js_lib/uml.js
-  - js_lib/mermaid.min.js
-#  - https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.4.6/mermaid.min.js
-  - https://cdnjs.cloudflare.com/ajax/libs/raphael/2.3.0/raphael.min.js
-  - https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.9.1/underscore-min.js
-  - https://cdnjs.cloudflare.com/ajax/libs/js-sequence-diagrams/1.0.6/sequence-diagram-min.js
-  - https://cdnjs.cloudflare.com/ajax/libs/flowchart/1.13.0/flowchart.min.js
+
+
+
 
 markdown_extensions:
   - admonition
+  - toc:
+      permalink: true
   - pymdownx.superfences :
       custom_fences :
-        - name : flow
-          class : uml-flowchart
-          format : !!python/name:pymdownx.superfences.fence_div_format
-        - name : sequence
-          class : uml-sequence-diagram
-          format : !!python/name:pymdownx.superfences.fence_div_format
         - name: mermaid
           class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_div_format
+          format: !!python/name:pymdownx.superfences.fence_code_format
 
 nav:
   - Home : index.md
@@ -55,6 +42,7 @@ nav:
     - Alchemist's Journal : AlchemistJournal.md
     - Book of Prophesy : Prophesy.md
     - Gnolls : Gnolls.md
+    - Stonhyr's Ultimatum to Dohlar : UltimatumToDohlar.md
     - Timeline : Timeline.md
     - Tritanian Calendar : Calendar.md
   - History :
@@ -77,15 +65,23 @@ nav:
         - High Court of Inquiry : HighCourtOfInquiry.md
         - Lord Protector of the Republic : LordProtector.md
         - Republic Expeditionary Forces : REF.md
+  - Minor Powers :
+    - Empire of the Rufous Wings : RufousWings.md
+    - Cult of the Eternal Flame :
+      - Cult of the Eternal Flame : EternalFlameCult.md
+      - Dusk Templar Order : DuskTemplar.md
   - NPC :
     - Azoth the Wise : Azoth.md
     - Baltatrax the Ravager : Baltatrax.md
+    - Cyton the Learned : Cyton.md
     - Elandorr Krutoq : ElandorrKrutoq.md
     - Faelix : Faelix.md
+    - Othes : Othes.md
     - Uþer : UtherNPC.md
     - Cult of the Eternal Flame :
       - Nyhlus Verriskrit : NyhlusVerriskrit.md
       - Pleas Morgan : PleasMorgan.md
+      - Tyar Besir : TyarBesir.md
     - Kingdom of Dohlar :
       - Nell Reynfred : NellReynfred.md
       - Yrvyn Lynch : YrvynLynch.md
@@ -102,8 +98,6 @@ nav:
     - Mother Church (Religion) : MotherChurch.md
     - Republic :
       - Gahrdynyr Trade House : GahrdynyrTradeHouse.md
-    - Villains :
-      - Eternal Flame Cult : EternalFlameCult.md
   - Settlements :
     - Kingdom of Dohlar :
       - Blackpoint : Blackpoint.md
@@ -120,6 +114,7 @@ nav:
       - History : History.md
       - Locations : Locations.md
       - Major Powers : Major Powers.md
+      - Minor Powers : Minor Powers.md
       - NPC : NPC.md
       - Organization : Organization.md
       - Settlements : Settlements.md

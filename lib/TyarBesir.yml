@@ -1,0 +1,50 @@
+---
+node : NPC/Cult of the Eternal Flame
+template : Character.md
+title : Tyar Besir
+Image : Tyar.png
+GeneralInfo :
+  Statistics :
+    Race : Human
+    Age : Unknown
+  Traits :
+    - Scheming
+#  Description : >-
+#    TEXT
+Occupation :
+  Role : Presumed Leader of the Eternal Flame Cult
+  Note : Has multiple simulacra throughout Tritan
+  Location : Unknown
+Description : >-
+  The presumed leader of the Eternal Flame Cult, Tyar Besir's background is
+  largely unknown. As Besir has been known to utilize simulacra to obfuscate
+  his true whereabouts and actions, it is not clear if any of the events associated
+  with him have actually featured the real Tyar Besir.
+NotableEvents :
+  Kidnapping of Maximillien XI : >-
+    A version of Besir was responsible for taking the former Dohlaran King
+    hostage prior to the Templar Uprising in 570 AGS. It is presumed that
+    the Flame Cult wished to use the hostage monarch to transfer power to
+    their Templar allies. The failure of this plot precipitated the treasonous
+    actions taken by the Dusk Templars later that year. This clone of Besir
+    was presumed killed after he fell through one of the many underground ravines
+    in the Old Blackpoint ruins.
+  Attack on the Republic Archives : >-
+    Besir was spotted in the outskirts of Terraworth after a daring raid by
+    the Flame Cult and their gnoll allies on the Republic Archives in Siddar
+    City, seeking to recover an artefact. Though the object in question was
+    never in the Archives to begin with, it is reasonable to presume it would
+    have been kept within the secure vaults beneath the Palace of Justice. He
+    was confirmed killed during the attempt to retrieve the artefact.
+  Dohlaran Expedition to The Gate : >-
+    A simulacrum of Besir was spotted and ejected from a ship departing
+    Blackpoint, carrying members of a Dohlaran expedition to the Broken
+    Gate. Dohlaran authorities did not locate a body, which was presumably
+    washed downstream and out into the gulf.
+  Templar Uprising : >-
+    Tyar Besir was confirmed as the ringleader of the Templar Uprising
+    in Blackpoint in 570Y 8M. Based on anecdotal accounts, Besir was
+    a high ranking member of the Primacy, attached as a regimental chaplain
+    to the Dusk Templar order. His whereabouts are unknown, though it is
+    believed this Besir perished during the disastrous fires that leveled
+    much of the Royal Enclave.

@@ -1,0 +1,42 @@
+---
+node : NPC
+template : Character.md
+title : Cyton the Learned
+altLinks:
+  - Cyton
+GeneralInfo :
+  Statistics :
+    Race : Adult Green Dragon
+    Age : c. 400
+  Traits :
+    - Covetous
+    - Avaricious
+    - Intellectual
+  Description : >-
+    An Adult Green Dragon and self-described historian and scholar, Cyton
+    has made his lair beneath the University's ruined auditorium. His hoard
+    boasts an incredible number of Imperial artifacts, including the true
+    Crown of the Gate, which was recovered from the Orcish tribe living within
+    the city ruins.
+Occupation :
+  Role : Historian
+  Note : '(Self Described)'
+  Location : Broken Gate
+Description : >-
+  Cyton the Learned, according to his own account, spawned from a draconic egg
+  left behind within the University of the Gate. Surrounded by books and artefacts
+  that were spared the devastation of the city due to the collapse of the lecture
+  halls above ground, Cyton developed a voracious apetite for the history of the
+  city and the Empire that once ruled the continent.
+  
+  
+  While he claims the Broken Gate as his territory, he appears to be in no hurry
+  to deal with the peculiar orcish tribe that inhabits the southern districts.
+  Evidence of constant sparring between the two factions is obvious, with charred
+  remains of orc warriors and kobold skeletons adorning crimson banners straddling
+  the sides of a no-man's land that scars the city's eastern sections.
+NotableEvents :
+  Dohlaran Expedition Rebuffed : >-
+    Cyton has taken responsibility for the deaths of members of a Dohlaran
+    expedition to the Broken Gate, claiming territorial sovereignty over
+    the city.

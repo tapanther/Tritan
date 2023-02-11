@@ -1,0 +1,52 @@
+---
+node : General
+template : Generic.md
+title : Stonhyr's Ultimatum to Dohlar
+altLinks:
+  - Ultimatum to Dohlar
+GeneralInfo :
+  Description: >-
+    An ultimatum delivered to the newly crowned Dohlaran King, Thamior Maximillien XII née
+    Yrvyn Lynch, by agents of the Lord Protector Greghor Stonhyr.
+#  Diagram : |
+#    ```
+#    ```
+Content:
+  -
+#    Subtitle: TEXT
+    Title: Text of the Ultimatum
+    Text: >-
+      !!!quote Ultimatum to Dohlar
+          It is my intent to see the two greatest threats to the Republic suitably pacified, whether by 
+          sword and pike or by ink and quill is entirely your prerogative. The Kingdom days are, to put 
+          it bluntly, numbered. Either the treasonous blow will prove fatal, at which point the Republic
+          will be obliged by virtue of its own Sovereign Interest to restore order, or, should the Kingdom
+          survive, it will find itself in no position to exert influence beyond the crumbling walls of the
+          city, isolated and contained as the outer towns and villages are annexed one by one.
+
+          The alternative is simple and I trust will prove mutually beneficial to our Peoples: The Republic
+          shall welcome Blackpoint, the territories surrounding it, and its citizens and subjects as full
+          Citizens of the Republic, represented in Parliament, but subject to our Laws and Customs and
+          accountable to this Office.
+
+          The Decision is yours.
+
+          Cordially,
+
+          Greghor Stonhyr
+          Lord Protector of the Republic of Siddarmark
+#    Diagram: |
+#      ```
+#      ```
+#    Table :
+#      "# - #" : TEXT
+#      Meta :
+#        Columns :
+#          - COL1
+#          - COL2
+#        Rows :
+#          -
+#            - ROW1COL1
+#            - ROW2COL2
+#Links :
+#  - LINK

@@ -5,6 +5,8 @@ title : Broken Gate
 altTitle : World's Gate
 altLinks :
   - The Gate
+  - World's Gate
+Image : ImperialBanner.jpg
 GeneralInfo :
   Statistics :
     Type : City Ruins
@@ -14,7 +16,7 @@ GeneralInfo :
     The Broken Gate is the name given to the ruins of the old Imperial Capital.
     Once the largest and most prosperous city on Tritan, the Gate is a mangled
     hulk of collapsed structures overrun with dangerous creatures.
-  AddInfo :
+  AddDesc :
     Cyton the Learned : >-
       An Adult Green Dragon and self-described historian and scholar, Cyton
       has made his lair beneath the University's ruined auditorium. His hoard
@@ -68,6 +70,34 @@ Geography :
       of massive siege engines to bombard the walls. After nearly
       a month of constant barrage, the wall finally crumbled, allowing
       the demon's hordes to flood into the city.
+    University of the Gate : >-
+      Home to Cyton the Learned, the ruins of the University are home to
+      a large population of drakes and kobolds, making it extremely
+      treacherous and nearly impossible to approach unnoticed.
+      
+      
+      Beneath the collapsed auditoriums lies the horde of the dragon, consisting
+      not only of gold and jewelry but a veritable king's ransom of historical
+      artefacts from the Empire and the World's Gate.
+    Temple Hill : >-
+      Broken steeples and collapsed walls dominate the only slight rise in elevation 
+      within the walls of the Broken Gate, the location of what was once the single 
+      largest collection of First Age temples and religious institutions on Tritan.
+      
+      
+      It is rumoured that many of the temples utilized pocket dimensions to
+      expand their footprint due to the extreme crowding of buildings within
+      the district. Contemporary accounts suggest that these pocket dimensions
+      were often incorporated into the rites and rituals, further elevating
+      the mysterious and spiritual reputation of the district.
+    Imperial Forum : >-
+      Host to massive classical palaces constructed of fine marble, the 
+      Forum was the seat of government for the Empire and it's sprawling
+      administration. Though much of the riches and relics of the Imperial
+      era were lost during the Great Sack, the imposing columnar edifices still
+      stand to this day, and appear to host a unique faction of orcs, known as
+      the Empire of the Rufous Wings, that have adopted the trappings of the
+      old Empire, including a stylized version of the Imperial Banner.
 ##  Settlements:
 ##    NAME : >-
 ##      TEXT

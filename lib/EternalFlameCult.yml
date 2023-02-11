@@ -1,7 +1,10 @@
 ---
-node : Organization/Villains
+node : Minor Powers/Cult of the Eternal Flame
 template : Organization.md
-title : Eternal Flame Cult
+title : Cult of the Eternal Flame
+altLinks:
+  - Flame Cult
+  - Eternal Flame Cult
 GeneralInfo :
   Statistics :
     Type : Religious Cult

@@ -4,6 +4,8 @@ template : Character.md
 title : Yrvyn Lynch
 altLinks :
   - Thamior XII
+  - Maximillien XII
+Image : Yrvyn.jpg
 GeneralInfo :
   Statistics :
     Race : Human
@@ -13,7 +15,11 @@ GeneralInfo :
     - Open-Minded
     - Aristocratic
   Description : >-
-    TEXT
+    His blueblood lineage contrasts heavily with a scarred face bearing
+    the telltale signs of a certain familiarity with broken glass and
+    the tip of a sword. Yrvyn is kind if a little impetuous, qualities that
+    have earned him favor with men of less-than-reputable backgrounds and
+    earned him the scorn of his fellow peers.
 Occupation :
   Role : King of Dohlar
   Note : Crowned 570 AGS

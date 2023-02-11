@@ -2,6 +2,7 @@
 node : NPC/Republic
 template : Character.md
 title : Greghor Stonhyr
+Image : Stonhyr.jpg
 GeneralInfo :
   Statistics :
     Race : Tiefling (Zariel)
@@ -20,7 +21,7 @@ FormerOccupations :
       Note: Comissioned 561 AGS
       Location: Siddar City, Republic of Siddarmark
     -
-      Role: Colonel, Southguard Rapid Response Regiment, REF
+      Role: Colonel, Southgard Rapid Response Regiment, REF
       Note: Comissioned 555 AGS
       Location: Riventon, Republic of Siddarmark
 Description : >-

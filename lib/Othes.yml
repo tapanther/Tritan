@@ -1,0 +1,30 @@
+---
+node : NPC
+template : Character.md
+title : Othes
+GeneralInfo :
+  Statistics :
+    Race : Unknown
+    Age : Unknown
+  Traits :
+    - Pompous
+    - Rigid
+    - Protective
+  Description : >-
+    A shade of a knight from a civilization long gone, Othes views everything
+    through the lens of the world as it existed in his time, either unable or
+    unwilling to accept that the facts he once knew no longer apply. He is however
+    quick to jump to the defense of those who cannot defend themselves, and those
+    he considers kin.
+Occupation :
+  Role : TEXT
+  Note : TEXT
+  Location : TEXT
+Description : >-
+  Othes' shade refused to move on after his death, choosing instead to hold perpetual 
+  vigil over a cadre of child-like spirits trapped within the Gondarus Oratory in Blackpoint.
+  With the ancient sealing ritual broken during the events of the Templar Uprising, Othes
+  seemingly departed the Ethereal Plane where he had been holding vigil for over a millenia.
+#NotableEvents :
+#  TEXT : >-
+#    TEXT
