@@ -1,0 +1,26 @@
+---
+node : NPC/Republic
+template : Character.md
+title : Tohazar Nammesarian
+GeneralInfo :
+  Statistics :
+    Race : Dragonborn (Red Chromatic Heritage)
+    Age : 33
+  Traits :
+    - Dependable
+    - Efficient
+#  Description : >-
+#
+Occupation :
+  Role : Chief of Staff (informal)
+  Note : Lt. Colonel
+  Location : Siddar City
+Description : >-
+  Formerly the adjutant to the Expedition Commander, Tohazar followed Stonhyr
+  to Siddar to continue serving as his personal aide when he was elected Lord
+  Protector. She has shown an innate passion for organization and logistics,
+  and is in the process of rapidly modernizing the various officer posts 
+  surrounding the Protectorship into a true General Staff.
+#NotableEvents :
+#  TEXT : >-
+#    TEXT
