@@ -1,0 +1,55 @@
+---
+node : Locations/Prehistoric Ruins
+template : Location.md
+title : Silver Burials
+GeneralInfo :
+  Statistics :
+    Type : Ancient Ruins
+    Region : Southgard Province
+    Population : None
+  Description : >-
+    A massive trio of gleaming metallic monoliths rise above the ashen dunes
+    southwest of the ruined city once known as Emberedge. The structures reach
+    thousands of feet into the air, and radiate a massive amount of heat into an
+    otherwise calm void within the Nonewallow.
+    
+    
+    Not much is known about the ruins themselves, though they predate any surviving
+    records from the First Age. A fragmentary legal codex from around 1200 years
+    before the Great Sack suggests that the entire area surrounding the Burials had
+    been declared an interdiction zone, and the lack of any meaningful ledger
+    entries in Imperial records suggests the site remained officially unexplored.
+Geography :
+  Description : >-
+    Based on fragmentary descriptions, the Silver Burials are located in a formerly
+    desolate basalt plain, now buried dozens of feet under layers of dust and ash.
+    The heat radiating out of the structures appears to have created a relatively
+    calm pocket within the Nonewallow, though the occasional storm or the 
+    Maelstrom's effects still occasionally overcome the local convection currents
+    and redistribute ash throughout the area.
+  Features:
+    Burial Mounds : >-
+      Three impossibly tall metallic oblong monoliths, the smallest half as tall as
+      the largest, reach out into the hazy skies like the outstretched fingers of a
+      buried titan.
+      
+      Their surfaces are impossibly smooth despite the centuries of accelerated erosion the
+      Nonewallow's dust storms have inflicted, and the millenia of wind, rain,
+      and natural weathering that the structures must have endured prior to the
+      creation of the landscape around them.
+      
+      It is reported that the pillars sat atop an intricately inscribed plaza made
+      of a similar metallic composition, though if true that is now buried beneath
+      the Nonewallow.
+#  Settlements:
+#    NAME : >-
+#      TEXT
+#History :
+#  Description : >-
+#    TEXT
+#  Timeline :
+#    -
+#      Name : NAME
+#      Date : YEAR
+#      Description : >-
+#        TEXT

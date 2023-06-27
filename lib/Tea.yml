@@ -1,0 +1,48 @@
+---
+node : History
+template : Generic.md
+title : Tea
+GeneralInfo :
+  Description: >-
+    A conversation between Greghor Stonhyr and Yrvyn Lynch.
+Content:
+  -
+    separate: True
+    Title: Noxwall Address
+    Text: |
+      > __YRVYN:__  *Gulp* That is bitter!
+      > 
+      > __GREGHOR:__  Yes, one's duty often is. sips Though you'll find, with time, that once finished it leaves a soothing warmth on one's core.
+      > 
+      > __YRVYN:__  *Pondering the tea and taking another sip* It's not so bad, all things considered
+      > 
+      > __GREGHOR:__  I have no doubts that this is neither the first nor last time Fate has seen it fit to fill your cup so.
+      > 
+      > __YRVYN:__  *Downing the cup* Hardly. I am a Lynch
+      > 
+      > __GREGHOR:__  Ironic you should put it that way; perhaps history will recognize it one day.
+      > 
+      > __YRVYN:__  I'd just as soon be forgotten, Master Traynyr¹
+      > 
+      > __GREGHOR:__  *Laughing* You give me far too much credit. I am but the last in a long line of troupers
+      > 
+      > __YRVYN:__  *Raising an eyebrow* A joke?
+      > 
+      > __GREGHOR:__  A poem. "All the world's a stage..."
+      > 
+      > __YRVYN:__  "... and all the men and women merely players"
+      > 
+      > __GREGHOR:__  *Nodding*
+      > 
+      > __YRVYN:__  It is perhaps time I bid my leave, your Excellency. There is much yet to do and I'm sure Reynfred is worried sick.
+      > 
+      > __GREGHOR:__  Five days your Majesty. I shall expect your answer, one way or another.
+      > 
+      > __YRVYN:__  I did not think you suited to such pomp and panoply
+      >
+      > __GREGHOR:__  An occupational hazard I'm afraid. Have a safe journey, your Majesty.
+  -
+    separate: True
+    Subtitle: Footnotes
+    Text: |
+      ¹Master Traynyr: the honorary name given to puppetmasters on Tritan. It is also the name of "the fool" character in the aforementioned puppet plays. It is simultaneously meant to call someone an utter fool, or a master manipulator.
